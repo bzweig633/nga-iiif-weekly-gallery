@@ -30,7 +30,6 @@ def generate_iiif_manifest(selected_items):
     }
 
     for i, item in enumerate(selected_items):
-        # FIX: Removed the extra '/p/' from the service URL
         image_uuid = str(item.get('uuid', ''))
         image_service_url = f"https://api.nga.gov/iiif/{image_uuid}"
         canvas_id = f"{BASE_URL}/canvas/p{i}"
@@ -56,11 +55,13 @@ def generate_iiif_manifest(selected_items):
                         "id": f"{image_service_url}/full/max/0/default.jpg",
                         "type": "Image",
                         "format": "image/jpeg",
-                        "service": [{
-                            "id": image_service_url,
-                            "type": "ImageService3",
-                            "profile": "level2"
-                        }]
+                        "service": [
+                            {
+                                "id": image_service_url,
+                                "type": "ImageService2",
+                                "profile": "http://iiif.io/api/image/2/level2.json"
+                            }
+                        ]
                     },
                     "target": canvas_id
                 }]

@@ -1,0 +1,84 @@
+import pandas as pd
+import requests
+import json
+import os
+
+# --- CONFIGURATION ---
+GITHUB_USERNAME = "your-username"
+REPO_NAME = "nga-iiif-project"
+MANIFEST_FILENAME = "nga_random_collection.json"
+FILTER_CATEGORY = 'Painting' # Options: 'Painting', 'Photograph', 'Drawing', etc.
+
+BASE_URL = f"https://{GITHUB_USERNAME}.github.io/{REPO_NAME}"
+NGA_DATA_URL = "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/objects.csv"
+NGA_IMAGE_URL = "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/published_images.csv"
+
+def generate_iiif_manifest(selected_items):
+    manifest = {
+        "@context": "http://iiif.io/api/presentation/3/context.json",
+        "id": f"{BASE_URL}/{MANIFEST_FILENAME}", 
+        "type": "Manifest",
+        "label": { "en": [ f"Weekly NGA {FILTER_CATEGORY} Gallery" ] },
+        "summary": { "en": [ f"A curated selection of 20 random {FILTER_CATEGORY}s from the NGA Open Access collection." ] },
+        "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "requiredStatement": {
+            "label": { "en": [ "Attribution" ] },
+            "value": { "en": [ "Courtesy of the National Gallery of Art, Washington." ] }
+        },
+        "behavior": ["paged"],
+        "items": []
+    }
+
+    for i, item in enumerate(selected_items):
+        image_service_url = f"https://api.nga.gov/iiif/p/{item['uuid']}"
+        canvas_id = f"{BASE_URL}/canvas/p{i}"
+        
+        canvas = {
+            "id": canvas_id,
+            "type": "Canvas",
+            "label": { "en": [ item.get('title', 'Untitled') ] },
+            "metadata": [
+                {"label": {"en": ["Artist"]}, "value": {"en": [str(item.get('attribution', 'Unknown'))]}},
+                {"label": {"en": ["Date"]}, "value": {"en": [str(item.get('displaydate', 'n.d.'))]}},
+                {"label": {"en": ["Medium"]}, "value": {"en": [str(item.get('medium', 'Unknown'))]}},
+                {"label": {"en": ["Dimensions"]}, "value": {"en": [str(item.get('dimensions', 'Not recorded'))]}}
+            ],
+            "items": [{
+                "id": f"{BASE_URL}/page/{i}",
+                "type": "AnnotationPage",
+                "items": [{
+                    "id": f"{BASE_URL}/anno/{i}",
+                    "type": "Annotation",
+                    "motivation": "painting",
+                    "body": {
+                        "id": f"{image_service_url}/full/max/0/default.jpg",
+                        "type": "Image",
+                        "format": "image/jpeg",
+                        "service": [{
+                            "id": image_service_url,
+                            "type": "ImageService3",
+                            "profile": "level2"
+                        }]
+                    },
+                    "target": canvas_id
+                }]
+            }]
+        }
+        manifest["items"].append(canvas)
+    return manifest
+
+def main():
+    objects_df = pd.read_csv(NGA_DATA_URL, low_memory=False)
+    images_df = pd.read_csv(NGA_IMAGE_URL, low_memory=False)
+    df = pd.merge(objects_df, images_df, on="objectid")
+    
+    oa_df = df[(df['is_public_domain'] == 1) & (df['classification'] == FILTER_CATEGORY)].dropna(subset=['iiifurl'])
+    selected = oa_df.sample(n=min(20, len(oa_df))).to_dict('records')
+
+    iiif_json = generate_iiif_manifest(selected)
+    with open(MANIFEST_FILENAME, 'w') as f:
+        json.dump(iiif_json, f, indent=4)
+    print(f"Manifest generated for {len(selected)} items.")
+
+if __name__ == "__main__":
+    main()

@@ -4,10 +4,11 @@ import json
 import os
 
 # --- CONFIGURATION ---
+# Replace these with your actual GitHub details
 GITHUB_USERNAME = "bzweig633"
 REPO_NAME = "nga-iiif-weekly-gallery"
 MANIFEST_FILENAME = "nga_random_collection.json"
-FILTER_CATEGORY = 'Painting' # Options: 'Painting', 'Photograph', 'Drawing', etc.
+FILTER_CATEGORY = 'Painting' 
 
 BASE_URL = f"https://{GITHUB_USERNAME}.github.io/{REPO_NAME}"
 NGA_DATA_URL = "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/objects.csv"
@@ -30,13 +31,15 @@ def generate_iiif_manifest(selected_items):
     }
 
     for i, item in enumerate(selected_items):
-        image_service_url = f"https://api.nga.gov/iiif/p/{item['uuid']}"
+        # We use .get() and str() to ensure we don't crash on missing data
+        image_uuid = str(item.get('uuid', ''))
+        image_service_url = f"https://api.nga.gov/iiif/p/{image_uuid}"
         canvas_id = f"{BASE_URL}/canvas/p{i}"
         
         canvas = {
             "id": canvas_id,
             "type": "Canvas",
-            "label": { "en": [ item.get('title', 'Untitled') ] },
+            "label": { "en": [ str(item.get('title', 'Untitled')) ] },
             "metadata": [
                 {"label": {"en": ["Artist"]}, "value": {"en": [str(item.get('attribution', 'Unknown'))]}},
                 {"label": {"en": ["Date"]}, "value": {"en": [str(item.get('displaydate', 'n.d.'))]}},
@@ -68,35 +71,39 @@ def generate_iiif_manifest(selected_items):
     return manifest
 
 def main():
+    print("--- Starting Curator Script ---")
+    
     print("Step 1: Downloading NGA Metadata...")
     objects_df = pd.read_csv(NGA_DATA_URL, low_memory=False)
     images_df = pd.read_csv(NGA_IMAGE_URL, low_memory=False)
 
-    # Standardize column names to lowercase to prevent KeyErrors
+    # FIX: Force all columns to lowercase to avoid 'objectid' vs 'objectID' errors
     objects_df.columns = objects_df.columns.str.lower()
     images_df.columns = images_df.columns.str.lower()
 
-    print(f"Step 2: Filtering for Open Access {FILTER_CATEGORY}s...")
-    # Now 'objectid' will definitely be lowercase in both files
+    print(f"Step 2: Merging data and filtering for {FILTER_CATEGORY}...")
     df = pd.merge(objects_df, images_df, on="objectid")
     
-    # Filter by Public Domain AND the chosen classification
+    # Filter for Open Access and the specific classification
     oa_df = df[
         (df['is_public_domain'] == 1) & 
         (df['classification'] == FILTER_CATEGORY)
     ].dropna(subset=['iiifurl'])
 
     if len(oa_df) == 0:
-        print(f"No items found for category: {FILTER_CATEGORY}. Check spelling!")
+        print(f"FAILED: No items found for category '{FILTER_CATEGORY}'.")
         return
 
-    print(f"Step 3: Selecting 20 random items...")
+    print(f"Step 3: Selecting 20 random items from {len(oa_df)} matches...")
     selected = oa_df.sample(n=min(20, len(oa_df))).to_dict('records')
 
-    print("Step 4: Generating Manifest...")
+    print("Step 4: Generating IIIF Manifest...")
     iiif_json = generate_iiif_manifest(selected)
     
     with open(MANIFEST_FILENAME, 'w') as f:
         json.dump(iiif_json, f, indent=4)
 
-    print(f"\nSuccess! File created: {MANIFEST_FILENAME}")
+    print(f"SUCCESS: {MANIFEST_FILENAME} has been created.")
+
+if __name__ == "__main__":
+    main()

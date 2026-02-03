@@ -34,7 +34,7 @@
             "type": "Canvas",
             "label": {
                 "en": [
-                    "Madonna of Humility"
+                    "Primal Energy II (River Sounds)"
                 ]
             },
             "metadata": [
@@ -46,7 +46,7 @@
                     },
                     "value": {
                         "en": [
-                            "Sassetta"
+                            "Edda Renouf"
                         ]
                     }
                 },
@@ -58,7 +58,7 @@
                     },
                     "value": {
                         "en": [
-                            "c. 1435/1440"
+                            "1989"
                         ]
                     }
                 },
@@ -70,7 +70,7 @@
                     },
                     "value": {
                         "en": [
-                            "tempera on poplar panel"
+                            "oil and acrylic on canvas"
                         ]
                     }
                 },
@@ -82,7 +82,7 @@
                     },
                     "value": {
                         "en": [
-                            "overall: 48.4 x 21.2 cm (19 1/16 x 8 3/8 in.)\r\nframed: 62.9 x 25.4 cm (24 3/4 x 10 in.)"
+                            "overall: 150.18 x 150.18 cm (59 1/8 x 59 1/8 in.)"
                         ]
                     }
                 }
@@ -97,14 +97,14 @@
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://api.nga.gov/iiif/183b291d-39f9-4f77-ad1a-126f36c186cc/full/max/0/default.jpg",
+                                "id": "https://api.nga.gov/iiif/507edf33-934c-4497-8e6e-b892790524ad/full/max/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "service": [
                                     {
-                                        "id": "https://api.nga.gov/iiif/183b291d-39f9-4f77-ad1a-126f36c186cc",
-                                        "type": "ImageService3",
-                                        "profile": "level2"
+                                        "id": "https://api.nga.gov/iiif/507edf33-934c-4497-8e6e-b892790524ad",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
                                     }
                                 ]
                             },
@@ -119,7 +119,7 @@
             "type": "Canvas",
             "label": {
                 "en": [
-                    "Saint Venantius [right panel]"
+                    "Portrait of a Young Man and His Tutor"
                 ]
             },
             "metadata": [
@@ -131,7 +131,7 @@
                     },
                     "value": {
                         "en": [
-                            "Puccio di Simone and Allegretto Nuzi"
+                            "Nicolas de Largillierre"
                         ]
                     }
                 },
@@ -143,7 +143,7 @@
                     },
                     "value": {
                         "en": [
-                            "1354"
+                            "1685"
                         ]
                     }
                 },
@@ -155,7 +155,7 @@
                     },
                     "value": {
                         "en": [
-                            "tempera on panel"
+                            "oil on canvas"
                         ]
                     }
                 },
@@ -167,7 +167,7 @@
                     },
                     "value": {
                         "en": [
-                            "painted surface: 89.2 x 33 cm (35 1/8 x 13 in.)\r\noverall (with cradle): 91 \u00d7 34.2 \u00d7 2.5 cm (35 13/16 \u00d7 13 7/16 \u00d7 1 in.)\r\nframed: 123.8 x 43.2 x 8.3 cm (48 3/4 x 17 x 3 1/4 in.)"
+                            "overall: 146 x 114.8 cm (57 1/2 x 45 3/16 in.)\r\nframed: 147.3 x 115.9 cm (58 x 45 5/8 in.)"
                         ]
                     }
                 }
@@ -182,14 +182,14 @@
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://api.nga.gov/iiif/ace92898-3191-42e2-b849-1be58081903f/full/max/0/default.jpg",
+                                "id": "https://api.nga.gov/iiif/4b3352ab-0eb3-4343-a7b0-79c8dc3ba324/full/max/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "service": [
                                     {
-                                        "id": "https://api.nga.gov/iiif/ace92898-3191-42e2-b849-1be58081903f",
-                                        "type": "ImageService3",
-                                        "profile": "level2"
+                                        "id": "https://api.nga.gov/iiif/4b3352ab-0eb3-4343-a7b0-79c8dc3ba324",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
                                     }
                                 ]
                             },
@@ -204,7 +204,7 @@
             "type": "Canvas",
             "label": {
                 "en": [
-                    "Aaron Baldwin"
+                    "Black White and Blue"
                 ]
             },
             "metadata": [
@@ -216,7 +216,7 @@
                     },
                     "value": {
                         "en": [
-                            "Francis Alexander"
+                            "Georgia O'Keeffe"
                         ]
                     }
                 },
@@ -228,7 +228,7 @@
                     },
                     "value": {
                         "en": [
-                            "c. 1835"
+                            "1930"
                         ]
                     }
                 },
@@ -240,7 +240,7 @@
                     },
                     "value": {
                         "en": [
-                            "oil on wood"
+                            "oil on canvas"
                         ]
                     }
                 },
@@ -252,7 +252,7 @@
                     },
                     "value": {
                         "en": [
-                            "overall: 64.5 x 54.2 cm (25 3/8 x 21 5/16 in.)"
+                            "overall: 121.9 \u00d7 76.2 cm (48 \u00d7 30 in.)\r\nframed: 122.56 \u00d7 77.15 \u00d7 3.81 cm (48 1/4 \u00d7 30 3/8 \u00d7 1 1/2 in.)"
                         ]
                     }
                 }
@@ -267,14 +267,14 @@
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://api.nga.gov/iiif/4bed94ce-e0d0-407c-acdc-6729eac5a7d1/full/max/0/default.jpg",
+                                "id": "https://api.nga.gov/iiif/035d6867-0e38-4734-9f86-7d7c773b9728/full/max/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "service": [
                                     {
-                                        "id": "https://api.nga.gov/iiif/4bed94ce-e0d0-407c-acdc-6729eac5a7d1",
-                                        "type": "ImageService3",
-                                        "profile": "level2"
+                                        "id": "https://api.nga.gov/iiif/035d6867-0e38-4734-9f86-7d7c773b9728",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
                                     }
                                 ]
                             },
@@ -289,7 +289,7 @@
             "type": "Canvas",
             "label": {
                 "en": [
-                    "Edmondo and Th\u00e9r\u00e8se Morbilli"
+                    "Still Life"
                 ]
             },
             "metadata": [
@@ -301,7 +301,7 @@
                     },
                     "value": {
                         "en": [
-                            "Edgar Degas"
+                            "Carlos Scliar"
                         ]
                     }
                 },
@@ -313,7 +313,7 @@
                     },
                     "value": {
                         "en": [
-                            "c. 1865"
+                            "1970"
                         ]
                     }
                 },
@@ -325,7 +325,7 @@
                     },
                     "value": {
                         "en": [
-                            "oil on canvas"
+                            "oil on cardboard"
                         ]
                     }
                 },
@@ -337,7 +337,7 @@
                     },
                     "value": {
                         "en": [
-                            "overall: 117.2 x 89.7 cm (46 1/8 x 35 5/16 in.)\r\nframed: 141.6 x 114.9 cm (55 3/4 x 45 1/4 in.)"
+                            "overall: 74.8 x 54.9 cm (29 7/16 x 21 5/8 in.)"
                         ]
                     }
                 }
@@ -352,14 +352,14 @@
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://api.nga.gov/iiif/a0cf1d0b-a065-43ae-abba-a8fea36ef740/full/max/0/default.jpg",
+                                "id": "https://api.nga.gov/iiif/dbcb1da7-a92d-4104-bbac-419f8cccde88/full/max/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "service": [
                                     {
-                                        "id": "https://api.nga.gov/iiif/a0cf1d0b-a065-43ae-abba-a8fea36ef740",
-                                        "type": "ImageService3",
-                                        "profile": "level2"
+                                        "id": "https://api.nga.gov/iiif/dbcb1da7-a92d-4104-bbac-419f8cccde88",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
                                     }
                                 ]
                             },
@@ -374,7 +374,7 @@
             "type": "Canvas",
             "label": {
                 "en": [
-                    "The Great Mother"
+                    "Woman Holding an Apple"
                 ]
             },
             "metadata": [
@@ -386,7 +386,7 @@
                     },
                     "value": {
                         "en": [
-                            "Arthur B. Davies"
+                            "Titian"
                         ]
                     }
                 },
@@ -398,7 +398,7 @@
                     },
                     "value": {
                         "en": [
-                            "c. 1913"
+                            "c. 1550"
                         ]
                     }
                 },
@@ -422,7 +422,7 @@
                     },
                     "value": {
                         "en": [
-                            "overall: 102.24 \u00d7 66.68 cm (40 1/4 \u00d7 26 1/4 in.)\r\nframed: 118.11 \u00d7 81.28 cm (46 1/2 \u00d7 32 in.)"
+                            "overall: 97.8 \u00d7 73.8 cm (38 1/2 \u00d7 29 1/16 in.)\r\nframed: 123 x 99.4 x 9.8 cm (48 7/16 x 39 1/8 x 3 7/8 in.)"
                         ]
                     }
                 }
@@ -437,14 +437,14 @@
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://api.nga.gov/iiif/e2beca5e-bc74-4274-8844-f5fe0826a59c/full/max/0/default.jpg",
+                                "id": "https://api.nga.gov/iiif/4b6a997d-410c-44af-a3f1-95ac4f103717/full/max/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "service": [
                                     {
-                                        "id": "https://api.nga.gov/iiif/e2beca5e-bc74-4274-8844-f5fe0826a59c",
-                                        "type": "ImageService3",
-                                        "profile": "level2"
+                                        "id": "https://api.nga.gov/iiif/4b6a997d-410c-44af-a3f1-95ac4f103717",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
                                     }
                                 ]
                             },
@@ -459,7 +459,7 @@
             "type": "Canvas",
             "label": {
                 "en": [
-                    "The Petitioner"
+                    "Little Girl in a Blue Armchair"
                 ]
             },
             "metadata": [
@@ -471,7 +471,7 @@
                     },
                     "value": {
                         "en": [
-                            "Jean-Louis Forain"
+                            "Mary Cassatt"
                         ]
                     }
                 },
@@ -483,7 +483,7 @@
                     },
                     "value": {
                         "en": [
-                            "c. 1910"
+                            "1878"
                         ]
                     }
                 },
@@ -507,7 +507,7 @@
                     },
                     "value": {
                         "en": [
-                            "overall: 61.5 x 50.5 cm (24 3/16 x 19 7/8 in.)\r\nframed: 76.2 x 318.8 x 5.7 cm (30 x 125 1/2 x 2 1/4 in.)"
+                            "overall: 89.5 \u00d7 129.8 cm (35 1/4 \u00d7 51 1/8 in.)\r\nframed: 109.22 \u00d7 152.72 \u00d7 6.35 cm (43 \u00d7 60 1/8 \u00d7 2 1/2 in.)"
                         ]
                     }
                 }
@@ -522,14 +522,14 @@
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://api.nga.gov/iiif/01110a68-b5b4-40e9-bf0c-ddce3157bf1d/full/max/0/default.jpg",
+                                "id": "https://api.nga.gov/iiif/6dc9ca49-ea8c-4314-985a-ba2cfc3965cd/full/max/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "service": [
                                     {
-                                        "id": "https://api.nga.gov/iiif/01110a68-b5b4-40e9-bf0c-ddce3157bf1d",
-                                        "type": "ImageService3",
-                                        "profile": "level2"
+                                        "id": "https://api.nga.gov/iiif/6dc9ca49-ea8c-4314-985a-ba2cfc3965cd",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
                                     }
                                 ]
                             },
@@ -544,687 +544,7 @@
             "type": "Canvas",
             "label": {
                 "en": [
-                    "La Fiat aux pare-chocs (The Fiat with Bumpers)"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": [
-                            "Artist"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "Jean Dubuffet"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Date"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "1961"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Medium"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "oil on canvas"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Dimensions"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "overall: 116 x 89 cm (45 11/16 x 35 1/16 in.)\r\nframed: 136.5 x 109.5 x 6.4 cm (53 3/4 x 43 1/8 x 2 1/2 in.)"
-                        ]
-                    }
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/6",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/6",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://api.nga.gov/iiif/3acf728c-567c-40bd-9924-b554c5ec0fa9/full/max/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://api.nga.gov/iiif/3acf728c-567c-40bd-9924-b554c5ec0fa9",
-                                        "type": "ImageService3",
-                                        "profile": "level2"
-                                    }
-                                ]
-                            },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p6"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p7",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "The Italian Comedians (copy)"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": [
-                            "Artist"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "after Antoine Watteau"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Date"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "19th century"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Medium"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "oil on canvas"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Dimensions"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "overall: 63.8 x 76 cm (25 1/8 x 29 15/16 in.)\r\nframed: 80.7 x 92.7 x 3.8 cm (31 3/4 x 36 1/2 x 1 1/2 in.)"
-                        ]
-                    }
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/7",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/7",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://api.nga.gov/iiif/e06f8429-6d80-4ac3-9856-f462e55947ad/full/max/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://api.nga.gov/iiif/e06f8429-6d80-4ac3-9856-f462e55947ad",
-                                        "type": "ImageService3",
-                                        "profile": "level2"
-                                    }
-                                ]
-                            },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p7"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p8",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Second Station"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": [
-                            "Artist"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "Barnett Newman"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Date"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "1958"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Medium"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "Magna on canvas"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Dimensions"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "overall: 198.4 x 153.2 cm (78 1/8 x 60 5/16 in.)"
-                        ]
-                    }
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/8",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/8",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://api.nga.gov/iiif/caba46a3-1173-469d-91d4-6016dcf350c7/full/max/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://api.nga.gov/iiif/caba46a3-1173-469d-91d4-6016dcf350c7",
-                                        "type": "ImageService3",
-                                        "profile": "level2"
-                                    }
-                                ]
-                            },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p8"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p9",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Madonna and Child"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": [
-                            "Artist"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "Sandro Botticelli"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Date"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "c. 1470"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Medium"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "tempera on panel"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Dimensions"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "overall: 74.5 x 54.5 cm (29 5/16 x 21 7/16 in.)\r\nframed: 113.7 x 94.9 x 8.6 cm (44 3/4 x 37 3/8 x 3 3/8 in.)"
-                        ]
-                    }
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/9",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/9",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://api.nga.gov/iiif/b648ebba-7bc6-45ab-a41d-7fd20b0918ea/full/max/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://api.nga.gov/iiif/b648ebba-7bc6-45ab-a41d-7fd20b0918ea",
-                                        "type": "ImageService3",
-                                        "profile": "level2"
-                                    }
-                                ]
-                            },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p9"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p10",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Peonies"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": [
-                            "Artist"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "Berthe Morisot"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Date"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "c. 1869"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Medium"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "oil on canvas"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Dimensions"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "overall: 40.8 x 33 cm (16 1/16 x 13 in.)\r\nframed: 46.7 x 38.4 x 2.5 cm (18 3/8 x 15 1/8 x 1 in.)"
-                        ]
-                    }
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/10",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/10",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://api.nga.gov/iiif/9eb4ccbd-96c2-4799-a71d-209ad2950e24/full/max/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://api.nga.gov/iiif/9eb4ccbd-96c2-4799-a71d-209ad2950e24",
-                                        "type": "ImageService3",
-                                        "profile": "level2"
-                                    }
-                                ]
-                            },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p10"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p11",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Self-Portrait"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": [
-                            "Artist"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "Henri Fantin-Latour"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Date"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "1858"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Medium"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "oil on canvas"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Dimensions"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "overall: 40.7 x 32.7 cm (16 x 12 7/8 in.)\r\nframed: 62.9 x 54 x 5.7 cm (24 3/4 x 21 1/4 x 2 1/4 in.)"
-                        ]
-                    }
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/11",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/11",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://api.nga.gov/iiif/47e0968b-3989-4a69-b185-66f490d8e5e7/full/max/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://api.nga.gov/iiif/47e0968b-3989-4a69-b185-66f490d8e5e7",
-                                        "type": "ImageService3",
-                                        "profile": "level2"
-                                    }
-                                ]
-                            },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p11"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p12",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Marble Mantel"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": [
-                            "Artist"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "Karl Knaths"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Date"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "1966"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Medium"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "oil on canvas"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Dimensions"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "overall: 76.2 x 127.7 cm (30 x 50 1/4 in.)\r\nframed: 101 x 152.4 x 4.4 cm (39 3/4 x 60 x 1 3/4 in.)"
-                        ]
-                    }
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/12",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/12",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://api.nga.gov/iiif/c18e9615-e004-47e0-ba5f-20ab08e088eb/full/max/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://api.nga.gov/iiif/c18e9615-e004-47e0-ba5f-20ab08e088eb",
-                                        "type": "ImageService3",
-                                        "profile": "level2"
-                                    }
-                                ]
-                            },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p12"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p13",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Thomas Jefferson"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": [
-                            "Artist"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "Gilbert Stuart"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Date"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "c. 1821"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Medium"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "oil on wood"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Dimensions"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "overall: 66 x 54.5 cm (26 x 21 7/16 in.)\r\nframed: 90.2 x 79.4 x 10.2 cm (35 1/2 x 31 1/4 x 4 in.)"
-                        ]
-                    }
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/13",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/13",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://api.nga.gov/iiif/3a14fb6b-82a0-4e1b-beb3-7e6ac89ef686/full/max/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://api.nga.gov/iiif/3a14fb6b-82a0-4e1b-beb3-7e6ac89ef686",
-                                        "type": "ImageService3",
-                                        "profile": "level2"
-                                    }
-                                ]
-                            },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p13"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p14",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Women Talking"
+                    "Untitled (still life with vase and two statues)"
                 ]
             },
             "metadata": [
@@ -1248,7 +568,7 @@
                     },
                     "value": {
                         "en": [
-                            "1929/1932"
+                            "1937/1938"
                         ]
                     }
                 },
@@ -1260,7 +580,7 @@
                     },
                     "value": {
                         "en": [
-                            "oil on canvas on board"
+                            "oil on linen"
                         ]
                     }
                 },
@@ -1272,44 +592,44 @@
                     },
                     "value": {
                         "en": [
-                            "painted surface: 33 x 24.5 cm (13 x 9 5/8 in.)\r\nsupport: 38.1 x 27.6 cm (15 x 10 7/8 in.)"
+                            "overall: 51.1 x 76.4 cm (20 1/8 x 30 1/16 in.)\r\nframed: 66.2 x 91.9 x 8.6 cm (26 1/16 x 36 3/16 x 3 3/8 in.)"
                         ]
                     }
                 }
             ],
             "items": [
                 {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/14",
+                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/6",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/14",
+                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/6",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://api.nga.gov/iiif/59b6d336-9b6e-4ff2-9035-aa3186003fbc/full/max/0/default.jpg",
+                                "id": "https://api.nga.gov/iiif/e8d4e09b-b0ab-4e1a-9ba9-0662726b18b7/full/max/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "service": [
                                     {
-                                        "id": "https://api.nga.gov/iiif/59b6d336-9b6e-4ff2-9035-aa3186003fbc",
-                                        "type": "ImageService3",
-                                        "profile": "level2"
+                                        "id": "https://api.nga.gov/iiif/e8d4e09b-b0ab-4e1a-9ba9-0662726b18b7",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
                                     }
                                 ]
                             },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p14"
+                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p6"
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p15",
+            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p7",
             "type": "Canvas",
             "label": {
                 "en": [
-                    "The David Children"
+                    "Mother and Child"
                 ]
             },
             "metadata": [
@@ -1321,7 +641,7 @@
                     },
                     "value": {
                         "en": [
-                            "Thomas Sully"
+                            "American or Possibly British 19th Century"
                         ]
                     }
                 },
@@ -1333,7 +653,7 @@
                     },
                     "value": {
                         "en": [
-                            "1826"
+                            "c. 1810"
                         ]
                     }
                 },
@@ -1357,44 +677,44 @@
                     },
                     "value": {
                         "en": [
-                            "overall: 87 x 112.4 cm (34 1/4 x 44 1/4 in.)\r\nframed: 107 x 132.4 x 7.6 cm (42 1/8 x 52 1/8 x 3 in.)"
+                            "overall: 153.7 x 105.4 cm (60 1/2 x 41 1/2 in.)\r\nframed: 171.1 x 121 x 10.2 cm (67 3/8 x 47 5/8 x 4 in.)"
                         ]
                     }
                 }
             ],
             "items": [
                 {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/15",
+                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/7",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/15",
+                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/7",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://api.nga.gov/iiif/8ff2d6a0-c863-4127-bb9a-7edd6a56650a/full/max/0/default.jpg",
+                                "id": "https://api.nga.gov/iiif/892ccfe1-e0e3-4faa-87d6-98aa92387a05/full/max/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "service": [
                                     {
-                                        "id": "https://api.nga.gov/iiif/8ff2d6a0-c863-4127-bb9a-7edd6a56650a",
-                                        "type": "ImageService3",
-                                        "profile": "level2"
+                                        "id": "https://api.nga.gov/iiif/892ccfe1-e0e3-4faa-87d6-98aa92387a05",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
                                     }
                                 ]
                             },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p15"
+                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p7"
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p16",
+            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p8",
             "type": "Canvas",
             "label": {
                 "en": [
-                    "Madonna and Child with the Blessing Christ, and Saints Peter, James Major, Anthony Abbott, and a Deacon Saint [entire triptych]"
+                    "Flathead Indians"
                 ]
             },
             "metadata": [
@@ -1406,7 +726,7 @@
                     },
                     "value": {
                         "en": [
-                            "Martino di Bartolomeo"
+                            "George Catlin"
                         ]
                     }
                 },
@@ -1418,7 +738,7 @@
                     },
                     "value": {
                         "en": [
-                            "c. 1415/1420"
+                            "1861"
                         ]
                     }
                 },
@@ -1430,7 +750,7 @@
                     },
                     "value": {
                         "en": [
-                            "tempera on panel"
+                            "oil on card mounted on paperboard"
                         ]
                     }
                 },
@@ -1442,44 +762,299 @@
                     },
                     "value": {
                         "en": [
-                            "nan"
+                            "overall: 45.7 x 60.4 cm (18 x 23 3/4 in.)"
                         ]
                     }
                 }
             ],
             "items": [
                 {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/16",
+                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/8",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/16",
+                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/8",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://api.nga.gov/iiif/189d05f0-c290-4d93-bc8f-a93ec02b17c3/full/max/0/default.jpg",
+                                "id": "https://api.nga.gov/iiif/0a9e2730-388a-43c6-8713-e61f766e2f92/full/max/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "service": [
                                     {
-                                        "id": "https://api.nga.gov/iiif/189d05f0-c290-4d93-bc8f-a93ec02b17c3",
-                                        "type": "ImageService3",
-                                        "profile": "level2"
+                                        "id": "https://api.nga.gov/iiif/0a9e2730-388a-43c6-8713-e61f766e2f92",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
                                     }
                                 ]
                             },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p16"
+                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p8"
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p17",
+            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p9",
             "type": "Canvas",
             "label": {
                 "en": [
-                    "View of Chicago in 1837"
+                    "The Annunciation to the Shepherds"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Artist"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Jacopo Bassano"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "probably 1555/1560"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Medium"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "oil on canvas"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Dimensions"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "overall: 106.1 x 82.6 cm (41 3/4 x 32 1/2 in.)\r\nframed: 131 x 106.7 x 10.6 cm (51 9/16 x 42 x 4 3/16 in.)"
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/9",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/9",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://api.nga.gov/iiif/54f391df-3a86-4dda-b6c1-5900b6a7610d/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://api.nga.gov/iiif/54f391df-3a86-4dda-b6c1-5900b6a7610d",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p9"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p10",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Woman with Red Hair"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Artist"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Amedeo Modigliani"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1917"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Medium"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "oil on canvas"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Dimensions"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "overall: 92.1 x 60.7 cm (36 1/4 x 23 7/8 in.)\r\nframed: 114.9 x 82.5 x 7.6 cm (45 1/4 x 32 1/2 x 3 in.)"
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/10",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/10",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://api.nga.gov/iiif/4053e7eb-3ad6-466c-8825-48356e59f86a/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://api.nga.gov/iiif/4053e7eb-3ad6-466c-8825-48356e59f86a",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p10"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p11",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "The Square of Saint Mark's, Venice"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Artist"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Canaletto"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1742/1744"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Medium"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "oil on canvas"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Dimensions"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "overall: 114.6 x 153 cm (45 1/8 x 60 1/4 in.)"
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/11",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/11",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://api.nga.gov/iiif/c25be5bf-4592-4102-a908-17082b19542d/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://api.nga.gov/iiif/c25be5bf-4592-4102-a908-17082b19542d",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p12",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Encampment of Pawnee Indians at Sunset"
                 ]
             },
             "metadata": [
@@ -1527,7 +1102,432 @@
                     },
                     "value": {
                         "en": [
-                            "overall: 45.9 x 61.4 cm (18 1/16 x 24 3/16 in.)"
+                            "overall: 47 x 62.8 cm (18 1/2 x 24 3/4 in.)"
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/12",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/12",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://api.nga.gov/iiif/ec0a9865-44a2-4560-b1b2-d86299be150c/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://api.nga.gov/iiif/ec0a9865-44a2-4560-b1b2-d86299be150c",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p12"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p13",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Repast in a Garden"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Artist"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Edouard Vuillard"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1898"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Medium"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "oil on cardboard"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Dimensions"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "overall: 54.3 x 53.1 cm (21 3/8 x 20 7/8 in.)\r\nframed: 80 x 78.7 x 8.8 cm (31 1/2 x 31 x 3 7/16 in.)"
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/13",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/13",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://api.nga.gov/iiif/469aefe8-b1eb-4b56-a5cf-101cc85e4f96/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://api.nga.gov/iiif/469aefe8-b1eb-4b56-a5cf-101cc85e4f96",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p13"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p14",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Dr. David Rogers"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Artist"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Ralph Earl"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1788"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Medium"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "oil on canvas"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Dimensions"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "overall: 86.6 x 73.5 cm (34 1/8 x 28 15/16 in.)\r\nframed: 100.7 x 87.6 x 4.1 cm (39 5/8 x 34 1/2 x 1 5/8 in.)"
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/14",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/14",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://api.nga.gov/iiif/e2baa45e-e85f-455f-bae5-d065a2671d1f/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://api.nga.gov/iiif/e2baa45e-e85f-455f-bae5-d065a2671d1f",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p14"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p15",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Red Cherries"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Artist"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Robert Spear Dunning"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1866"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Medium"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "oil on canvas"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Dimensions"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "overall: 16.51 \u00d7 22.86 cm (6 1/2 \u00d7 9 in.)\r\nframed: 24.13 \u00d7 30.8 \u00d7 6.35 cm (9 1/2 \u00d7 12 1/8 \u00d7 2 1/2 in.)"
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/15",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/15",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://api.nga.gov/iiif/da9a0c9f-032e-46e9-9803-c6de9af33b39/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://api.nga.gov/iiif/da9a0c9f-032e-46e9-9803-c6de9af33b39",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p15"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p16",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Catherine Yates Pollock (Mrs. George Pollock)"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Artist"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Gilbert Stuart"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1793/1794"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Medium"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "oil on canvas"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Dimensions"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "overall: 91.6 x 71.8 cm (36 1/16 x 28 1/4 in.)\r\nframed: 122.6 x 105.4 x 8.9 cm (48 1/4 x 41 1/2 x 3 1/2 in.)"
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/16",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/16",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://api.nga.gov/iiif/e53a90e0-0e1e-44f8-b213-90511c41696e/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://api.nga.gov/iiif/e53a90e0-0e1e-44f8-b213-90511c41696e",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            },
+                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p16"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p17",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Nude on a Blue Cushion"
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Artist"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Amedeo Modigliani"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1917"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Medium"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "oil on linen"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Dimensions"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "overall: 65.4 x 100.9 cm (25 3/4 x 39 3/4 in.)\r\nframed: 84.7 x 120 cm (33 3/8 x 47 1/4 in.)"
                         ]
                     }
                 }
@@ -1542,14 +1542,14 @@
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://api.nga.gov/iiif/c287ab96-1e07-4f0e-a607-2fd184c09148/full/max/0/default.jpg",
+                                "id": "https://api.nga.gov/iiif/be74a689-e062-4c23-96ee-093620ed232f/full/max/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "service": [
                                     {
-                                        "id": "https://api.nga.gov/iiif/c287ab96-1e07-4f0e-a607-2fd184c09148",
-                                        "type": "ImageService3",
-                                        "profile": "level2"
+                                        "id": "https://api.nga.gov/iiif/be74a689-e062-4c23-96ee-093620ed232f",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
                                     }
                                 ]
                             },
@@ -1564,7 +1564,7 @@
             "type": "Canvas",
             "label": {
                 "en": [
-                    "Two Bunches of Grapes"
+                    "Copperhead Grande/ROCI CHILE"
                 ]
             },
             "metadata": [
@@ -1576,7 +1576,7 @@
                     },
                     "value": {
                         "en": [
-                            "Andrew John Henry Way"
+                            "Robert Rauschenberg"
                         ]
                     }
                 },
@@ -1588,7 +1588,7 @@
                     },
                     "value": {
                         "en": [
-                            "n.d."
+                            "1985"
                         ]
                     }
                 },
@@ -1600,7 +1600,7 @@
                     },
                     "value": {
                         "en": [
-                            "oil on canvas"
+                            "acrylic and tarnishes on copper"
                         ]
                     }
                 },
@@ -1612,7 +1612,7 @@
                     },
                     "value": {
                         "en": [
-                            "overall: 44.45 \u00d7 30.48 cm (17 1/2 \u00d7 12 in.)\r\nframed: 71.76 \u00d7 57.15 \u00d7 7.62 cm (28 1/4 \u00d7 22 1/2 \u00d7 3 in.)"
+                            "overall: 228.6 x 365.8 cm (90 x 144 in.)"
                         ]
                     }
                 }
@@ -1627,14 +1627,14 @@
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://api.nga.gov/iiif/bb5e472b-f5e3-47b9-9fc4-cefda61c617f/full/max/0/default.jpg",
+                                "id": "https://api.nga.gov/iiif/342b1b86-8fb1-4c9a-a965-c7eb50cd6f1a/full/max/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "service": [
                                     {
-                                        "id": "https://api.nga.gov/iiif/bb5e472b-f5e3-47b9-9fc4-cefda61c617f",
-                                        "type": "ImageService3",
-                                        "profile": "level2"
+                                        "id": "https://api.nga.gov/iiif/342b1b86-8fb1-4c9a-a965-c7eb50cd6f1a",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
                                     }
                                 ]
                             },
@@ -1649,7 +1649,7 @@
             "type": "Canvas",
             "label": {
                 "en": [
-                    "Drink to the Chimera"
+                    "The Longshoremen's Noon"
                 ]
             },
             "metadata": [
@@ -1661,7 +1661,7 @@
                     },
                     "value": {
                         "en": [
-                            "Jacques Villon"
+                            "John George Brown"
                         ]
                     }
                 },
@@ -1673,7 +1673,7 @@
                     },
                     "value": {
                         "en": [
-                            "1947"
+                            "1879"
                         ]
                     }
                 },
@@ -1697,7 +1697,7 @@
                     },
                     "value": {
                         "en": [
-                            "overall: 73 x 59.4 cm (28 3/4 x 23 3/8 in.)\r\nframed: 92.4 x 79.4 cm (36 3/8 x 31 1/4 in.)"
+                            "overall: 84 \u00d7 127.3 cm (33 1/16 \u00d7 50 1/8 in.)\r\nframed: 109.9 \u00d7 153 \u00d7 9.5 cm (43 1/4 \u00d7 60 1/4 \u00d7 3 3/4 in.)"
                         ]
                     }
                 }
@@ -1712,14 +1712,14 @@
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://api.nga.gov/iiif/eee1de12-e03c-44d4-a2e9-1803708d76da/full/max/0/default.jpg",
+                                "id": "https://api.nga.gov/iiif/c38ed386-91a4-4a58-969a-5a7bce3419f0/full/max/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "service": [
                                     {
-                                        "id": "https://api.nga.gov/iiif/eee1de12-e03c-44d4-a2e9-1803708d76da",
-                                        "type": "ImageService3",
-                                        "profile": "level2"
+                                        "id": "https://api.nga.gov/iiif/c38ed386-91a4-4a58-969a-5a7bce3419f0",
+                                        "type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
                                     }
                                 ]
                             },

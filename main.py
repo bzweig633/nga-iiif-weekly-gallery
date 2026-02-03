@@ -4,8 +4,8 @@ import json
 import os
 
 # --- CONFIGURATION ---
-GITHUB_USERNAME = "your-username"
-REPO_NAME = "nga-iiif-project"
+GITHUB_USERNAME = "bzweig633"
+REPO_NAME = "nga-iiif-weekly-gallery"
 MANIFEST_FILENAME = "nga_random_collection.json"
 FILTER_CATEGORY = 'Painting' # Options: 'Painting', 'Photograph', 'Drawing', etc.
 

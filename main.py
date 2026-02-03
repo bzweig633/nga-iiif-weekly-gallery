@@ -68,17 +68,35 @@ def generate_iiif_manifest(selected_items):
     return manifest
 
 def main():
+    print("Step 1: Downloading NGA Metadata...")
     objects_df = pd.read_csv(NGA_DATA_URL, low_memory=False)
     images_df = pd.read_csv(NGA_IMAGE_URL, low_memory=False)
+
+    # Standardize column names to lowercase to prevent KeyErrors
+    objects_df.columns = objects_df.columns.str.lower()
+    images_df.columns = images_df.columns.str.lower()
+
+    print(f"Step 2: Filtering for Open Access {FILTER_CATEGORY}s...")
+    # Now 'objectid' will definitely be lowercase in both files
     df = pd.merge(objects_df, images_df, on="objectid")
     
-    oa_df = df[(df['is_public_domain'] == 1) & (df['classification'] == FILTER_CATEGORY)].dropna(subset=['iiifurl'])
+    # Filter by Public Domain AND the chosen classification
+    oa_df = df[
+        (df['is_public_domain'] == 1) & 
+        (df['classification'] == FILTER_CATEGORY)
+    ].dropna(subset=['iiifurl'])
+
+    if len(oa_df) == 0:
+        print(f"No items found for category: {FILTER_CATEGORY}. Check spelling!")
+        return
+
+    print(f"Step 3: Selecting 20 random items...")
     selected = oa_df.sample(n=min(20, len(oa_df))).to_dict('records')
 
+    print("Step 4: Generating Manifest...")
     iiif_json = generate_iiif_manifest(selected)
+    
     with open(MANIFEST_FILENAME, 'w') as f:
         json.dump(iiif_json, f, indent=4)
-    print(f"Manifest generated for {len(selected)} items.")
 
-if __name__ == "__main__":
-    main()
+    print(f"\nSuccess! File created: {MANIFEST_FILENAME}")

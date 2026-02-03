@@ -1,1733 +1,792 @@
 {
-    "@context": "https://iiif.io/api/presentation/3/context.json",
-    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/nga_random_collection.json",
-    "type": "Manifest",
-    "label": {
-        "en": [
-            "Weekly NGA Painting Gallery"
-        ]
-    },
-    "summary": {
-        "en": [
-            "A curated selection of 20 random Paintings from the NGA Open Access collection."
-        ]
-    },
-    "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "requiredStatement": {
-        "label": {
-            "en": [
-                "Attribution"
-            ]
-        },
-        "value": {
-            "en": [
-                "Courtesy of the National Gallery of Art, Washington."
-            ]
-        }
-    },
-    "behavior": [
-        "paged"
-    ],
-    "items": [
-        {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p0",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Breach"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": [
-                            "Artist"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "Lee Lozano"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Date"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "1966"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Medium"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "oil on canvas"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Dimensions"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "overall (four panels: two triangles; two trapezoids): 180.98 \u00d7 396.24 cm (71 1/4 \u00d7 156 in.)"
-                        ]
-                    }
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/0",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/0",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://api.nga.gov/iiif/ec0d9ffb-91c7-47bf-b1e5-c98e6f8ed067/full/max/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://api.nga.gov/iiif/ec0d9ffb-91c7-47bf-b1e5-c98e6f8ed067",
-                                        "type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json"
-                                    }
-                                ]
-                            },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p1",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Lucretia"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": [
-                            "Artist"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "Rembrandt van Rijn"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Date"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "1664"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Medium"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "oil on canvas"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Dimensions"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "overall: 120 x 101 cm (47 1/4 x 39 3/4 in.)\r\nframed: 159.1 x 139.4 x 16.5 cm (62 5/8 x 54 7/8 x 6 1/2 in.)"
-                        ]
-                    }
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/1",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/1",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://api.nga.gov/iiif/daff38f5-b88f-47b3-af99-bd1b852af522/full/max/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://api.nga.gov/iiif/daff38f5-b88f-47b3-af99-bd1b852af522",
-                                        "type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json"
-                                    }
-                                ]
-                            },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p1"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p2",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "The Reverend John Albert Ryan"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": [
-                            "Artist"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "John Neagle"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Date"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "1825/1829"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Medium"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "oil on canvas"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Dimensions"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "overall: 76.5 x 63.8 cm (30 1/8 x 25 1/8 in.)\r\nframed: 91.1 x 78.1 x 6.4 cm (35 7/8 x 30 3/4 x 2 1/2 in.)"
-                        ]
-                    }
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/2",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/2",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://api.nga.gov/iiif/cd4e1f02-c0c8-41a7-8f1c-1198238d5c72/full/max/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://api.nga.gov/iiif/cd4e1f02-c0c8-41a7-8f1c-1198238d5c72",
-                                        "type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json"
-                                    }
-                                ]
-                            },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p2"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p3",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "The Strawberry Girl"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": [
-                            "Artist"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "Ammi Phillips"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Date"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "c. 1830"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Medium"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "oil on canvas"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Dimensions"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "overall: 66.3 x 56.3 cm (26 1/8 x 22 3/16 in.)\r\nframed: 77.1 x 67 x 6.3 cm (30 3/8 x 26 3/8 x 2 1/2 in.)"
-                        ]
-                    }
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/3",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/3",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://api.nga.gov/iiif/8e1c2202-dd89-457d-b972-a5cd1e1f43e8/full/max/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://api.nga.gov/iiif/8e1c2202-dd89-457d-b972-a5cd1e1f43e8",
-                                        "type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json"
-                                    }
-                                ]
-                            },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p3"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p4",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "The Coronation of the Virgin"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": [
-                            "Artist"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "Master of the Washington Coronation"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Date"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "1324"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Medium"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "tempera on poplar panel"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Dimensions"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "painted surface (score lines to score lines): 99.3 \u00d7 77.4 cm (39 1/8 \u00d7 30 1/2 in.)\r\noverall: 108.3 \u00d7 79 \u00d7 1.5 cm (42 5/8 \u00d7 31 1/8 \u00d7 9/16 in.)\r\nframed: 115.3 x 86 x 8.9 cm (45 3/8 x 33 7/8 x 3 1/2 in.)"
-                        ]
-                    }
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/4",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/4",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://api.nga.gov/iiif/24a4d6e0-31fa-400c-8f8a-44da96af4857/full/max/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://api.nga.gov/iiif/24a4d6e0-31fa-400c-8f8a-44da96af4857",
-                                        "type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json"
-                                    }
-                                ]
-                            },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p4"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p5",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Entablature"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": [
-                            "Artist"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "Roy Lichtenstein"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Date"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "1974"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Medium"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "oil, Magna, sand, Magna medium, and aluminum powder on canvas"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Dimensions"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "overall: 152.4 \u00d7 254 cm (60 \u00d7 100 in.)"
-                        ]
-                    }
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/5",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/5",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://api.nga.gov/iiif/f0fc7527-2033-46c2-a7f6-b3721ba6a4a1/full/max/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://api.nga.gov/iiif/f0fc7527-2033-46c2-a7f6-b3721ba6a4a1",
-                                        "type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json"
-                                    }
-                                ]
-                            },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p5"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p6",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Geese in Flight"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": [
-                            "Artist"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "Leila T. Bauman"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Date"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "1850 or later"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Medium"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "oil on canvas"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Dimensions"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "overall: 51.6 x 66.8 cm (20 5/16 x 26 5/16 in.)\r\nframed: 62.2 x 77.4 x 3.8 cm (24 1/2 x 30 1/2 x 1 1/2 in.)"
-                        ]
-                    }
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/6",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/6",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://api.nga.gov/iiif/e2430630-f7d2-49b7-9b96-0e09938603c2/full/max/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://api.nga.gov/iiif/e2430630-f7d2-49b7-9b96-0e09938603c2",
-                                        "type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json"
-                                    }
-                                ]
-                            },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p6"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p7",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "The Cornell Farm"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": [
-                            "Artist"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "Edward Hicks"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Date"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "1848"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Medium"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "oil on canvas"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Dimensions"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "overall: 93.3 x 124.4 cm (36 3/4 x 49 in.)\r\nframed: 119.1 x 149.9 x 6 cm (46 7/8 x 59 x 2 3/8 in.)"
-                        ]
-                    }
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/7",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/7",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://api.nga.gov/iiif/230d8d65-5bec-485e-8db6-95ce06ad2812/full/max/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://api.nga.gov/iiif/230d8d65-5bec-485e-8db6-95ce06ad2812",
-                                        "type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json"
-                                    }
-                                ]
-                            },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p7"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p8",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Still Life with Dead Game"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": [
-                            "Artist"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "Willem van Aelst"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Date"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "1661"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Medium"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "oil on canvas"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Dimensions"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "overall: 84.7 x 67.3 cm (33 3/8 x 26 1/2 in.)"
-                        ]
-                    }
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/8",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/8",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://api.nga.gov/iiif/4246e72b-cc40-4c13-a02d-59f0ac901740/full/max/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://api.nga.gov/iiif/4246e72b-cc40-4c13-a02d-59f0ac901740",
-                                        "type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json"
-                                    }
-                                ]
-                            },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p8"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p9",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Biel Le Doyt"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": [
-                            "Artist"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "Erastus Salisbury Field"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Date"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "1827"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Medium"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "oil on canvas"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Dimensions"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "overall: 76.4 x 58.5 cm (30 1/16 x 23 1/16 in.)\r\nframed: 83.2 x 65.4 x 5.7 cm (32 3/4 x 25 3/4 x 2 1/4 in.)"
-                        ]
-                    }
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/9",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/9",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://api.nga.gov/iiif/91c27b58-20be-4a10-bd49-aa7366c7c89d/full/max/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://api.nga.gov/iiif/91c27b58-20be-4a10-bd49-aa7366c7c89d",
-                                        "type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json"
-                                    }
-                                ]
-                            },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p9"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p10",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "View of Hoorn"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": [
-                            "Artist"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "Abraham de Verwer"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Date"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "c. 1650"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Medium"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "oil on panel"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Dimensions"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "overall: 51.1 x 94.6 cm (20 1/8 x 37 1/4 in.)\r\nframed: 70.8 x 113.7 x 5.7 cm (27 7/8 x 44 3/4 x 2 1/4 in.)"
-                        ]
-                    }
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/10",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/10",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://api.nga.gov/iiif/787d420b-974d-4949-8564-df84a9a12816/full/max/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://api.nga.gov/iiif/787d420b-974d-4949-8564-df84a9a12816",
-                                        "type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json"
-                                    }
-                                ]
-                            },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p10"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p11",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Saukie Warrior, His Wife, and a Boy"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": [
-                            "Artist"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "George Catlin"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Date"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "1861/1869"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Medium"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "oil on card mounted on paperboard"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Dimensions"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "overall: 47.5 x 63.9 cm (18 11/16 x 25 3/16 in.)"
-                        ]
-                    }
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/11",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/11",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://api.nga.gov/iiif/f9c07f9f-2661-4a22-9374-d1dbf222580e/full/max/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://api.nga.gov/iiif/f9c07f9f-2661-4a22-9374-d1dbf222580e",
-                                        "type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json"
-                                    }
-                                ]
-                            },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p11"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p12",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Allegory of Freedom"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": [
-                            "Artist"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "American 19th Century"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Date"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "1863 or after"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Medium"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "oil on canvas"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Dimensions"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "overall: 94.2 x 109.3 cm (37 1/16 x 43 1/16 in.)\r\nframed: 107.3 x 122.5 x 5.7 cm (42 1/4 x 48 1/4 x 2 1/4 in.)"
-                        ]
-                    }
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/12",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/12",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://api.nga.gov/iiif/0d7d9fb4-a3ff-42e4-93d3-90cbd89578e9/full/max/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://api.nga.gov/iiif/0d7d9fb4-a3ff-42e4-93d3-90cbd89578e9",
-                                        "type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json"
-                                    }
-                                ]
-                            },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p12"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p13",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "James Monroe"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": [
-                            "Artist"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "Gilbert Stuart"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Date"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "c. 1817"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Medium"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "oil on wood"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Dimensions"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "overall: 64.8 x 55 cm (25 1/2 x 21 5/8 in.)"
-                        ]
-                    }
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/13",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/13",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://api.nga.gov/iiif/40183c87-295e-4b62-9e46-b34e7603d6fb/full/max/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://api.nga.gov/iiif/40183c87-295e-4b62-9e46-b34e7603d6fb",
-                                        "type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json"
-                                    }
-                                ]
-                            },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p13"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p14",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Picking Cotton"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": [
-                            "Artist"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "William Gilbert Gaul"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Date"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "c. 1890"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Medium"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "oil on academy board"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Dimensions"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "overall: 33.66 \u00d7 46.36 cm (13 1/4 \u00d7 18 1/4 in.)\r\nframed: 40.64 \u00d7 50.8 \u00d7 5.08 cm (16 \u00d7 20 \u00d7 2 in.)"
-                        ]
-                    }
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/14",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/14",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://api.nga.gov/iiif/06c79e5b-bc00-4fd7-b0ef-98ea3d8fe988/full/max/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://api.nga.gov/iiif/06c79e5b-bc00-4fd7-b0ef-98ea3d8fe988",
-                                        "type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json"
-                                    }
-                                ]
-                            },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p14"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p15",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "John Philip de Haas"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": [
-                            "Artist"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "Charles Willson Peale"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Date"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "1772"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Medium"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "oil on canvas"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Dimensions"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "overall: 127 x 101.6 cm (50 x 40 in.)\r\nframed: 149.9 x 124.5 x 9.5 cm (59 x 49 x 3 3/4 in.)"
-                        ]
-                    }
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/15",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/15",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://api.nga.gov/iiif/e65af52e-e493-49b8-802e-8a061c959437/full/max/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://api.nga.gov/iiif/e65af52e-e493-49b8-802e-8a061c959437",
-                                        "type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json"
-                                    }
-                                ]
-                            },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p15"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p16",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Still Life"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": [
-                            "Artist"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "M.A. Goode"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Date"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "second half 19th century"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Medium"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "oil on canvas"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Dimensions"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "overall: 65.5 x 55.5 cm (25 13/16 x 21 7/8 in.)\r\nframed: 68 x 57.5 x 5.1 cm (26 3/4 x 22 5/8 x 2 in.)"
-                        ]
-                    }
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/16",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/16",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://api.nga.gov/iiif/9ceaf1ac-8e2a-4a26-8d4c-44c5d40bcefd/full/max/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://api.nga.gov/iiif/9ceaf1ac-8e2a-4a26-8d4c-44c5d40bcefd",
-                                        "type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json"
-                                    }
-                                ]
-                            },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p16"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p17",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "The Towpath"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": [
-                            "Artist"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "Johan Barthold Jongkind"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Date"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "1864"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Medium"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "oil on canvas"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Dimensions"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "overall: 34.3 x 47 cm (13 1/2 x 18 1/2 in.)\r\nframed: 50.8 x 63.18 x 7.94 cm (20 x 24 7/8 x 3 1/8 in.)"
-                        ]
-                    }
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/17",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/17",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://api.nga.gov/iiif/1b205f03-ef58-4ce4-9980-ed4a777ff30b/full/max/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://api.nga.gov/iiif/1b205f03-ef58-4ce4-9980-ed4a777ff30b",
-                                        "type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json"
-                                    }
-                                ]
-                            },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p17"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p18",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Self-Portrait"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": [
-                            "Artist"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "Eugen Weisz"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Date"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "1935"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Medium"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "oil on canvas"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Dimensions"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "overall: 53.34 \u00d7 38.1 cm (21 \u00d7 15 in.)\r\nframed: 77.47 \u00d7 61.6 \u00d7 5.08 cm (30 1/2 \u00d7 24 1/4 \u00d7 2 in.)"
-                        ]
-                    }
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/18",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/18",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://api.nga.gov/iiif/9f6ff41f-ef11-4c74-961b-1ac593755a19/full/max/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://api.nga.gov/iiif/9f6ff41f-ef11-4c74-961b-1ac593755a19",
-                                        "type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json"
-                                    }
-                                ]
-                            },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p18"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p19",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Shore of the Trombetas"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": [
-                            "Artist"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "George Catlin"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Date"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "1854/1869"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Medium"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "oil on card mounted on paperboard"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Dimensions"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "overall: 47.1 x 62.5 cm (18 9/16 x 24 5/8 in.)"
-                        ]
-                    }
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/19",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/19",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://api.nga.gov/iiif/57cad3f0-cba0-4413-b6f9-0d1d20071fcd/full/max/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": "https://api.nga.gov/iiif/57cad3f0-cba0-4413-b6f9-0d1d20071fcd",
-                                        "type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json"
-                                    }
-                                ]
-                            },
-                            "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p19"
-                        }
-                    ]
-                }
-            ]
-        }
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/nga_random_collection.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Weekly NGA Painting Gallery"
     ]
+  },
+  "items": [
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p0",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Eve"
+        ]
+      },
+      "width": 6642,
+      "height": 4408,
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/5e1ebec9-dcb1-4faf-8450-c27297e3a5f1/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 6642,
+                "height": 4408,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/5e1ebec9-dcb1-4faf-8450-c27297e3a5f1",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "How to Grow a Rainbow"
+        ]
+      },
+      "width": 7950,
+      "height": 9939,
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/2924f477-f842-4c1e-94a6-a440c71bc18d/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 7950,
+                "height": 9939,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/2924f477-f842-4c1e-94a6-a440c71bc18d",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Two McLaughlin Pears"
+        ]
+      },
+      "width": 9362,
+      "height": 6992,
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/2eb6afc9-684f-409b-b72f-1c629f82e144/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 9362,
+                "height": 6992,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/2eb6afc9-684f-409b-b72f-1c629f82e144",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p3",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Chrysanthemums"
+        ]
+      },
+      "width": 6894,
+      "height": 4128,
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/3",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/66525870-5e57-46db-83ef-f9376f9a8949/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 6894,
+                "height": 4128,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/66525870-5e57-46db-83ef-f9376f9a8949",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p4",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Return of the Prodigal Son"
+        ]
+      },
+      "width": 21882,
+      "height": 19829,
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/4",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/676fa96e-ad4e-4209-b985-ae0c15f5d902/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 21882,
+                "height": 19829,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/676fa96e-ad4e-4209-b985-ae0c15f5d902",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p5",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Still Life"
+        ]
+      },
+      "width": 18915,
+      "height": 22814,
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/5",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/9ceaf1ac-8e2a-4a26-8d4c-44c5d40bcefd/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 18915,
+                "height": 22814,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/9ceaf1ac-8e2a-4a26-8d4c-44c5d40bcefd",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p6",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Beach at Villerville"
+        ]
+      },
+      "width": 20392,
+      "height": 12096,
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/6",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/b94db39d-9c08-4e31-9373-a042b662ead6/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 20392,
+                "height": 12096,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/b94db39d-9c08-4e31-9373-a042b662ead6",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p7",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Truants"
+        ]
+      },
+      "width": 16105,
+      "height": 13343,
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/7",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/f1e8637b-03bd-41ec-b660-09411d8a194b/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 16105,
+                "height": 13343,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/f1e8637b-03bd-41ec-b660-09411d8a194b",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p8",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Windmill"
+        ]
+      },
+      "width": 10652,
+      "height": 14204,
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/8",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/ee686635-b527-4e36-82fc-53f09e10cee4/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 10652,
+                "height": 14204,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/ee686635-b527-4e36-82fc-53f09e10cee4",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p9",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Chodorow II"
+        ]
+      },
+      "width": 11658,
+      "height": 12384,
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/9",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/322cde8a-04e7-4a55-b993-a9a1bb4dcb0b/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 11658,
+                "height": 12384,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/322cde8a-04e7-4a55-b993-a9a1bb4dcb0b",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p10",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Portrait of a Man"
+        ]
+      },
+      "width": 7046,
+      "height": 8077,
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/10",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/dfc3527e-321a-4678-9032-afbc891c441a/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 7046,
+                "height": 8077,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/dfc3527e-321a-4678-9032-afbc891c441a",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p11",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Zurumati Indians"
+        ]
+      },
+      "width": 7711,
+      "height": 5982,
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/11",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/2c841323-5850-49b7-bb37-2e4297c5d9db/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 7711,
+                "height": 5982,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/2c841323-5850-49b7-bb37-2e4297c5d9db",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p12",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Ojibbeway Indians"
+        ]
+      },
+      "width": 6247,
+      "height": 4991,
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/12",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/2aa7e330-30c9-4a53-a8fe-a40c63e323cf/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 6247,
+                "height": 4991,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/2aa7e330-30c9-4a53-a8fe-a40c63e323cf",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p13",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Portrait of a Woman"
+        ]
+      },
+      "width": 2422,
+      "height": 7110,
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/13",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/d1efb8f5-64d8-4d14-975f-ff085ee722cb/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 2422,
+                "height": 7110,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/d1efb8f5-64d8-4d14-975f-ff085ee722cb",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p14",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Portrait"
+        ]
+      },
+      "width": 22504,
+      "height": 18996,
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/14",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/48550e74-6ec6-4fba-ad7f-28d3713dd121/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 22504,
+                "height": 18996,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/48550e74-6ec6-4fba-ad7f-28d3713dd121",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p15",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Profile Portrait of a Lady"
+        ]
+      },
+      "width": 2308,
+      "height": 3029,
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/15",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/a17b9f80-ae1e-4674-9c2c-d09dbeea6e46/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 2308,
+                "height": 3029,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/a17b9f80-ae1e-4674-9c2c-d09dbeea6e46",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p16",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Luciérnaga (Firefly)"
+        ]
+      },
+      "width": 29666,
+      "height": 19478,
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/16",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/eb347de4-c893-48a6-8926-f3760625c4dd/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 29666,
+                "height": 19478,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/eb347de4-c893-48a6-8926-f3760625c4dd",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p17",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Twelfth Station"
+        ]
+      },
+      "width": 5244,
+      "height": 6862,
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/17",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/0bf17aee-ff32-41f2-bb9a-7fdd9ae2e38d/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 5244,
+                "height": 6862,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/0bf17aee-ff32-41f2-bb9a-7fdd9ae2e38d",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p18",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Transfluent Lines"
+        ]
+      },
+      "width": 3796,
+      "height": 4608,
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/18",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/97dd1001-8224-4506-872c-df85d53d7c47/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 3796,
+                "height": 4608,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/97dd1001-8224-4506-872c-df85d53d7c47",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p19",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Genesis"
+        ]
+      },
+      "width": 23610,
+      "height": 18200,
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/19",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/0365f216-a97d-4174-bec1-21175b071231/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 23610,
+                "height": 18200,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/0365f216-a97d-4174-bec1-21175b071231",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p19"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

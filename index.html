@@ -74,21 +74,24 @@
     </div>
 
     <script>
-        // 2. Select the element
-      const viewer = document.querySelector('clover-viewer');
+        customElements.whenDefined('clover-viewer').then(() => {
+        const viewer = document.querySelector('clover-viewer');
 
-  // 3. Define the configuration object
+    if (viewer) {
+      // Define the configuration
       const options = {
         informationPanel: {
-          open: false
-    }
-  };
+          render: true, // Keep the button available
+          open: false   // Ensure it is closed on load
+        }
+      };
 
-  // 4. Assign the options directly to the element property
-  viewer.options = options;
-        
-        
-        //for downloads
+      // Assign the options to the element property
+      viewer.options = options;
+    }
+  });
+                
+//for downloads
         fetch('nga_random_collection.json')
             .then(res => res.json())
             .then(data => {

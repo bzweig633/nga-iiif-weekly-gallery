@@ -30,8 +30,9 @@ def generate_iiif_manifest(selected_items):
     }
 
     for i, item in enumerate(selected_items):
+        # FIX: Removed the extra '/p/' from the service URL
         image_uuid = str(item.get('uuid', ''))
-        image_service_url = f"https://api.nga.gov/iiif/p/{image_uuid}"
+        image_service_url = f"https://api.nga.gov/iiif/{image_uuid}"
         canvas_id = f"{BASE_URL}/canvas/p{i}"
         
         canvas = {
@@ -75,7 +76,6 @@ def main():
     objects_df = pd.read_csv(NGA_DATA_URL, low_memory=False)
     images_df = pd.read_csv(NGA_IMAGE_URL, low_memory=False)
 
-    # Standardize column names
     objects_df.columns = objects_df.columns.str.lower()
     images_df.columns = images_df.columns.str.lower()
 
@@ -87,17 +87,14 @@ def main():
         right_on="depictstmsobjectid"
     )
     
-    print(f"Step 3: Filtering for {FILTER_CATEGORY} works with valid IIIF URLs...")
-    
-    # We remove the public_domain check and rely on 'iiifurl' availability
-    # This captures the works that NGA has made available for open use
+    print(f"Step 3: Filtering for {FILTER_CATEGORY} works...")
     oa_df = df[
         (df['classification'] == FILTER_CATEGORY) & 
         (df['iiifurl'].notna())
     ].copy()
 
     if len(oa_df) == 0:
-        print(f"FAILED: No items found for category '{FILTER_CATEGORY}' with IIIF URLs.")
+        print(f"FAILED: No items found for category '{FILTER_CATEGORY}'.")
         return
 
     print(f"Step 4: Selecting 20 random items...")
@@ -109,7 +106,7 @@ def main():
     with open(MANIFEST_FILENAME, 'w') as f:
         json.dump(iiif_json, f, indent=4)
 
-    print(f"SUCCESS: {MANIFEST_FILENAME} created.")
+    print(f"SUCCESS: {MANIFEST_FILENAME} created with corrected URLs.")
 
 if __name__ == "__main__":
     main()

@@ -30,7 +30,6 @@ def generate_iiif_manifest(selected_items):
     }
 
     for i, item in enumerate(selected_items):
-        # NGA IIIF API uses the UUID for the image endpoint
         image_uuid = str(item.get('uuid', ''))
         image_service_url = f"https://api.nga.gov/iiif/p/{image_uuid}"
         canvas_id = f"{BASE_URL}/canvas/p{i}"
@@ -81,8 +80,6 @@ def main():
     images_df.columns = images_df.columns.str.lower()
 
     print(f"Step 2: Merging 'objectid' with 'depictstmsobjectid'...")
-    
-    # Using left_on and right_on to link the specific NGA columns
     df = pd.merge(
         objects_df, 
         images_df, 
@@ -90,20 +87,23 @@ def main():
         right_on="depictstmsobjectid"
     )
     
-    # Filter for Open Access and your category
+    print(f"Step 3: Filtering for {FILTER_CATEGORY} works with valid IIIF URLs...")
+    
+    # We remove the public_domain check and rely on 'iiifurl' availability
+    # This captures the works that NGA has made available for open use
     oa_df = df[
-        (df['is_public_domain'] == 1) & 
-        (df['classification'] == FILTER_CATEGORY)
-    ].dropna(subset=['iiifurl'])
+        (df['classification'] == FILTER_CATEGORY) & 
+        (df['iiifurl'].notna())
+    ].copy()
 
     if len(oa_df) == 0:
-        print(f"FAILED: No items found for category '{FILTER_CATEGORY}'.")
+        print(f"FAILED: No items found for category '{FILTER_CATEGORY}' with IIIF URLs.")
         return
 
-    print(f"Step 3: Selecting 20 random items...")
+    print(f"Step 4: Selecting 20 random items...")
     selected = oa_df.sample(n=min(20, len(oa_df))).to_dict('records')
 
-    print("Step 4: Generating Manifest...")
+    print("Step 5: Generating Manifest...")
     iiif_json = generate_iiif_manifest(selected)
     
     with open(MANIFEST_FILENAME, 'w') as f:

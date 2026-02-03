@@ -13,6 +13,12 @@ BASE_URL = f"https://{GITHUB_USERNAME}.github.io/{REPO_NAME}"
 NGA_DATA_URL = "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/objects.csv"
 NGA_IMAGE_URL = "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/published_images.csv"
 
+def clean_text(text):
+    """Removes line breaks and extra spaces that break JSON validation."""
+    if pd.isna(text):
+        return "Unknown"
+    return str(text).replace('\r', ' ').replace('\n', ' ').strip()
+
 def generate_iiif_manifest(selected_items):
     manifest = {
         "@context": "http://iiif.io/api/presentation/3/context.json",

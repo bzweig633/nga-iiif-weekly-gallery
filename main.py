@@ -4,7 +4,6 @@ import json
 import os
 
 # --- CONFIGURATION ---
-# Replace these with your actual GitHub details
 GITHUB_USERNAME = "bzweig633"
 REPO_NAME = "nga-iiif-weekly-gallery"
 MANIFEST_FILENAME = "nga_random_collection.json"
@@ -31,7 +30,7 @@ def generate_iiif_manifest(selected_items):
     }
 
     for i, item in enumerate(selected_items):
-        # We use .get() and str() to ensure we don't crash on missing data
+        # NGA IIIF API uses the UUID for the image endpoint
         image_uuid = str(item.get('uuid', ''))
         image_service_url = f"https://api.nga.gov/iiif/p/{image_uuid}"
         canvas_id = f"{BASE_URL}/canvas/p{i}"
@@ -77,14 +76,21 @@ def main():
     objects_df = pd.read_csv(NGA_DATA_URL, low_memory=False)
     images_df = pd.read_csv(NGA_IMAGE_URL, low_memory=False)
 
-    # FIX: Force all columns to lowercase to avoid 'objectid' vs 'objectID' errors
+    # Standardize column names
     objects_df.columns = objects_df.columns.str.lower()
     images_df.columns = images_df.columns.str.lower()
 
-    print(f"Step 2: Merging data and filtering for {FILTER_CATEGORY}...")
-    df = pd.merge(objects_df, images_df, on="objectid")
+    print(f"Step 2: Merging 'objectid' with 'depictstmsobjectid'...")
     
-    # Filter for Open Access and the specific classification
+    # Using left_on and right_on to link the specific NGA columns
+    df = pd.merge(
+        objects_df, 
+        images_df, 
+        left_on="objectid", 
+        right_on="depictstmsobjectid"
+    )
+    
+    # Filter for Open Access and your category
     oa_df = df[
         (df['is_public_domain'] == 1) & 
         (df['classification'] == FILTER_CATEGORY)
@@ -94,16 +100,16 @@ def main():
         print(f"FAILED: No items found for category '{FILTER_CATEGORY}'.")
         return
 
-    print(f"Step 3: Selecting 20 random items from {len(oa_df)} matches...")
+    print(f"Step 3: Selecting 20 random items...")
     selected = oa_df.sample(n=min(20, len(oa_df))).to_dict('records')
 
-    print("Step 4: Generating IIIF Manifest...")
+    print("Step 4: Generating Manifest...")
     iiif_json = generate_iiif_manifest(selected)
     
     with open(MANIFEST_FILENAME, 'w') as f:
         json.dump(iiif_json, f, indent=4)
 
-    print(f"SUCCESS: {MANIFEST_FILENAME} has been created.")
+    print(f"SUCCESS: {MANIFEST_FILENAME} created.")
 
 if __name__ == "__main__":
     main()

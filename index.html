@@ -56,8 +56,12 @@
     .clover-wrapper {
         margin-bottom: 10em;
     }    
-       
+
+   .c-bgaBPk clover-viewer-header {
+        display: none;
+   }
     </style>
+
 </head>
 <body>
     <div class="container">
@@ -73,24 +77,8 @@
         <div id="gallery" class="gallery-grid"></div>
     </div>
 
-    <script>
-        customElements.whenDefined('clover-viewer').then(() => {
-        const viewer = document.querySelector('clover-viewer');
-
-    if (viewer) {
-      // Define the configuration
-      const options = {
-        informationPanel: {
-          open: false   // Ensure it is closed on load
-        }
-      };
-
-      // Assign the options to the element property
-      viewer.options = options;
-    }
-  });
-                
-//for downloads
+    <script>    
+        //for downloads
         fetch('nga_random_collection.json')
             .then(res => res.json())
             .then(data => {

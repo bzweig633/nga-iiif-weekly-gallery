@@ -23,7 +23,7 @@ def generate_iiif_manifest(selected_items):
         "@context": "http://iiif.io/api/presentation/3/context.json",
         "id": f"{BASE_URL}/{MANIFEST_FILENAME}", 
         "type": "Manifest",
-        "label": { "en": [ f"Weekly NGA {FILTER_CATEGORY} Gallery" ] },
+        "label": { "en": [ f"Daily NGA {FILTER_CATEGORY} Gallery" ] },
         "items": []
     }
 

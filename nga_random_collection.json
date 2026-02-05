@@ -4,7 +4,7 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Weekly NGA Painting Gallery"
+      "Daily NGA Painting Gallery"
     ]
   },
   "items": [
@@ -13,11 +13,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Eve"
+          "Boy in Blue"
         ]
       },
-      "width": 6642,
-      "height": 4408,
+      "width": 6042,
+      "height": 9623,
       "items": [
         {
           "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/0",
@@ -28,14 +28,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/5e1ebec9-dcb1-4faf-8450-c27297e3a5f1/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/5387155a-6bff-40a9-90f4-b1950359b17e/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 6642,
-                "height": 4408,
+                "width": 6042,
+                "height": 9623,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/5e1ebec9-dcb1-4faf-8450-c27297e3a5f1",
+                    "id": "https://api.nga.gov/iiif/5387155a-6bff-40a9-90f4-b1950359b17e",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -52,11 +52,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "How to Grow a Rainbow"
+          "The Taj Mahal"
         ]
       },
-      "width": 7950,
-      "height": 9939,
+      "width": 5848,
+      "height": 4180,
       "items": [
         {
           "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/1",
@@ -67,14 +67,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/2924f477-f842-4c1e-94a6-a440c71bc18d/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/d4b24ae6-4e75-411c-8acf-f60165e5dc92/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 7950,
-                "height": 9939,
+                "width": 5848,
+                "height": 4180,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/2924f477-f842-4c1e-94a6-a440c71bc18d",
+                    "id": "https://api.nga.gov/iiif/d4b24ae6-4e75-411c-8acf-f60165e5dc92",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -91,11 +91,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Two McLaughlin Pears"
+          "Farmhouse in Provence"
         ]
       },
-      "width": 9362,
-      "height": 6992,
+      "width": 31183,
+      "height": 23388,
       "items": [
         {
           "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/2",
@@ -106,14 +106,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/2eb6afc9-684f-409b-b72f-1c629f82e144/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/51c369a2-cc20-43f6-8262-25877c4377eb/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 9362,
-                "height": 6992,
+                "width": 31183,
+                "height": 23388,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/2eb6afc9-684f-409b-b72f-1c629f82e144",
+                    "id": "https://api.nga.gov/iiif/51c369a2-cc20-43f6-8262-25877c4377eb",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -130,11 +130,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Chrysanthemums"
+          "Conversation"
         ]
       },
-      "width": 6894,
-      "height": 4128,
+      "width": 1070,
+      "height": 1200,
       "items": [
         {
           "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/3",
@@ -145,14 +145,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/66525870-5e57-46db-83ef-f9376f9a8949/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/7509e979-3e91-48ed-ba87-92018ee9d149/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 6894,
-                "height": 4128,
+                "width": 1070,
+                "height": 1200,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/66525870-5e57-46db-83ef-f9376f9a8949",
+                    "id": "https://api.nga.gov/iiif/7509e979-3e91-48ed-ba87-92018ee9d149",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -169,11 +169,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "The Return of the Prodigal Son"
+          "The Assumption of the Virgin with Busts of the Archangel Gabriel and the Virgin of the Annunciation"
         ]
       },
-      "width": 21882,
-      "height": 19829,
+      "width": 20403,
+      "height": 31664,
       "items": [
         {
           "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/4",
@@ -184,14 +184,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/676fa96e-ad4e-4209-b985-ae0c15f5d902/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/40067869-f92c-459c-9808-2d3ae3009311/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 21882,
-                "height": 19829,
+                "width": 20403,
+                "height": 31664,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/676fa96e-ad4e-4209-b985-ae0c15f5d902",
+                    "id": "https://api.nga.gov/iiif/40067869-f92c-459c-9808-2d3ae3009311",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -208,11 +208,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Still Life"
+          "Still Life with Milk Jug and Fruit"
         ]
       },
-      "width": 18915,
-      "height": 22814,
+      "width": 31780,
+      "height": 26662,
       "items": [
         {
           "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/5",
@@ -223,14 +223,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/9ceaf1ac-8e2a-4a26-8d4c-44c5d40bcefd/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/2142234c-6ff3-43c7-a026-91c90a0bb86c/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 18915,
-                "height": 22814,
+                "width": 31780,
+                "height": 26662,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/9ceaf1ac-8e2a-4a26-8d4c-44c5d40bcefd",
+                    "id": "https://api.nga.gov/iiif/2142234c-6ff3-43c7-a026-91c90a0bb86c",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -247,11 +247,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "The Beach at Villerville"
+          "Edouard Blau"
         ]
       },
-      "width": 20392,
-      "height": 12096,
+      "width": 11446,
+      "height": 15733,
       "items": [
         {
           "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/6",
@@ -262,14 +262,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/b94db39d-9c08-4e31-9373-a042b662ead6/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/c648bb1a-4a20-43c1-8fa9-794c325a787a/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 20392,
-                "height": 12096,
+                "width": 11446,
+                "height": 15733,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/b94db39d-9c08-4e31-9373-a042b662ead6",
+                    "id": "https://api.nga.gov/iiif/c648bb1a-4a20-43c1-8fa9-794c325a787a",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -286,11 +286,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "The Truants"
+          "Pears"
         ]
       },
-      "width": 16105,
-      "height": 13343,
+      "width": 6256,
+      "height": 4815,
       "items": [
         {
           "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/7",
@@ -301,14 +301,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/f1e8637b-03bd-41ec-b660-09411d8a194b/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/31b63be6-35c8-4e1d-b24e-a573f317ead1/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 16105,
-                "height": 13343,
+                "width": 6256,
+                "height": 4815,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/f1e8637b-03bd-41ec-b660-09411d8a194b",
+                    "id": "https://api.nga.gov/iiif/31b63be6-35c8-4e1d-b24e-a573f317ead1",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -325,11 +325,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "The Windmill"
+          "Spirit of Wild Things and Other Multicultural Overtones"
         ]
       },
-      "width": 10652,
-      "height": 14204,
+      "width": 27782,
+      "height": 35149,
       "items": [
         {
           "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/8",
@@ -340,14 +340,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/ee686635-b527-4e36-82fc-53f09e10cee4/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/62500b62-f9ac-4138-be14-69e39f0760e7/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 10652,
-                "height": 14204,
+                "width": 27782,
+                "height": 35149,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/ee686635-b527-4e36-82fc-53f09e10cee4",
+                    "id": "https://api.nga.gov/iiif/62500b62-f9ac-4138-be14-69e39f0760e7",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -364,11 +364,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Chodorow II"
+          "Woman Holding a Book"
         ]
       },
-      "width": 11658,
-      "height": 12384,
+      "width": 5261,
+      "height": 6662,
       "items": [
         {
           "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/9",
@@ -379,14 +379,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/322cde8a-04e7-4a55-b993-a9a1bb4dcb0b/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/ff27dabd-4630-454a-8d0b-98013b605fd6/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 11658,
-                "height": 12384,
+                "width": 5261,
+                "height": 6662,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/322cde8a-04e7-4a55-b993-a9a1bb4dcb0b",
+                    "id": "https://api.nga.gov/iiif/ff27dabd-4630-454a-8d0b-98013b605fd6",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -403,11 +403,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Portrait of a Man"
+          "Interior, after Dinner"
         ]
       },
-      "width": 7046,
-      "height": 8077,
+      "width": 15342,
+      "height": 11872,
       "items": [
         {
           "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/10",
@@ -418,14 +418,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/dfc3527e-321a-4678-9032-afbc891c441a/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/23a7bb39-d6da-4cf4-8961-7e743fd39aba/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 7046,
-                "height": 8077,
+                "width": 15342,
+                "height": 11872,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/dfc3527e-321a-4678-9032-afbc891c441a",
+                    "id": "https://api.nga.gov/iiif/23a7bb39-d6da-4cf4-8961-7e743fd39aba",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -442,11 +442,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Zurumati Indians"
+          "Self-Portrait, Aged 21"
         ]
       },
-      "width": 7711,
-      "height": 5982,
+      "width": 5211,
+      "height": 6734,
       "items": [
         {
           "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/11",
@@ -457,14 +457,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/2c841323-5850-49b7-bb37-2e4297c5d9db/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/f28d0f65-c4cd-4101-8a0e-6690bbbd3996/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 7711,
-                "height": 5982,
+                "width": 5211,
+                "height": 6734,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/2c841323-5850-49b7-bb37-2e4297c5d9db",
+                    "id": "https://api.nga.gov/iiif/f28d0f65-c4cd-4101-8a0e-6690bbbd3996",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -481,11 +481,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Ojibbeway Indians"
+          "Chyrow II"
         ]
       },
-      "width": 6247,
-      "height": 4991,
+      "width": 3918,
+      "height": 5352,
       "items": [
         {
           "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/12",
@@ -496,14 +496,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/2aa7e330-30c9-4a53-a8fe-a40c63e323cf/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/47ff4cbd-d757-48ec-be8f-2e5bdc89f490/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 6247,
-                "height": 4991,
+                "width": 3918,
+                "height": 5352,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/2aa7e330-30c9-4a53-a8fe-a40c63e323cf",
+                    "id": "https://api.nga.gov/iiif/47ff4cbd-d757-48ec-be8f-2e5bdc89f490",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -520,11 +520,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Portrait of a Woman"
+          "Antelope Shooting - Assinneboine"
         ]
       },
-      "width": 2422,
-      "height": 7110,
+      "width": 6400,
+      "height": 4983,
       "items": [
         {
           "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/13",
@@ -535,14 +535,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/d1efb8f5-64d8-4d14-975f-ff085ee722cb/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/13243dff-d596-4855-91de-b8fd2f99423f/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 2422,
-                "height": 7110,
+                "width": 6400,
+                "height": 4983,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/d1efb8f5-64d8-4d14-975f-ff085ee722cb",
+                    "id": "https://api.nga.gov/iiif/13243dff-d596-4855-91de-b8fd2f99423f",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -559,11 +559,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Portrait"
+          "Study for \"Third Paragraph\""
         ]
       },
-      "width": 22504,
-      "height": 18996,
+      "width": 10610,
+      "height": 13035,
       "items": [
         {
           "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/14",
@@ -574,14 +574,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/48550e74-6ec6-4fba-ad7f-28d3713dd121/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/23a392e6-dc62-4e40-bdd2-52c6f57a98de/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 22504,
-                "height": 18996,
+                "width": 10610,
+                "height": 13035,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/48550e74-6ec6-4fba-ad7f-28d3713dd121",
+                    "id": "https://api.nga.gov/iiif/23a392e6-dc62-4e40-bdd2-52c6f57a98de",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -598,11 +598,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Profile Portrait of a Lady"
+          "Anna de Peyster (?)"
         ]
       },
-      "width": 2308,
-      "height": 3029,
+      "width": 5271,
+      "height": 6779,
       "items": [
         {
           "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/15",
@@ -613,14 +613,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/a17b9f80-ae1e-4674-9c2c-d09dbeea6e46/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/fdcde815-bcf6-47eb-ba5c-f389d768d859/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 2308,
-                "height": 3029,
+                "width": 5271,
+                "height": 6779,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/a17b9f80-ae1e-4674-9c2c-d09dbeea6e46",
+                    "id": "https://api.nga.gov/iiif/fdcde815-bcf6-47eb-ba5c-f389d768d859",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -637,11 +637,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Luciérnaga (Firefly)"
+          "Nude with Hexagonal Quilt"
         ]
       },
-      "width": 29666,
-      "height": 19478,
+      "width": 13182,
+      "height": 10711,
       "items": [
         {
           "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/16",
@@ -652,14 +652,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/eb347de4-c893-48a6-8926-f3760625c4dd/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/effb065f-862d-4171-87c2-fedf8ec99383/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 29666,
-                "height": 19478,
+                "width": 13182,
+                "height": 10711,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/eb347de4-c893-48a6-8926-f3760625c4dd",
+                    "id": "https://api.nga.gov/iiif/effb065f-862d-4171-87c2-fedf8ec99383",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -676,11 +676,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Twelfth Station"
+          "Still Life with Bottle, Carafe, Bread, and Wine"
         ]
       },
-      "width": 5244,
-      "height": 6862,
+      "width": 16003,
+      "height": 10532,
       "items": [
         {
           "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/17",
@@ -691,14 +691,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/0bf17aee-ff32-41f2-bb9a-7fdd9ae2e38d/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/f2b37bef-9caf-4f86-a6a2-72c5773e9267/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 5244,
-                "height": 6862,
+                "width": 16003,
+                "height": 10532,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/0bf17aee-ff32-41f2-bb9a-7fdd9ae2e38d",
+                    "id": "https://api.nga.gov/iiif/f2b37bef-9caf-4f86-a6a2-72c5773e9267",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -715,11 +715,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Transfluent Lines"
+          "Man Named Hubbard Reading \"Boston Atlas\""
         ]
       },
-      "width": 3796,
-      "height": 4608,
+      "width": 11425,
+      "height": 12982,
       "items": [
         {
           "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/18",
@@ -730,14 +730,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/97dd1001-8224-4506-872c-df85d53d7c47/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8cf24db1-08d9-4e24-94c6-b587a6f1595f/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 3796,
-                "height": 4608,
+                "width": 11425,
+                "height": 12982,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/97dd1001-8224-4506-872c-df85d53d7c47",
+                    "id": "https://api.nga.gov/iiif/8cf24db1-08d9-4e24-94c6-b587a6f1595f",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -754,11 +754,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Genesis"
+          "An Indian Village - Shore of the Amazon"
         ]
       },
-      "width": 23610,
-      "height": 18200,
+      "width": 11171,
+      "height": 8700,
       "items": [
         {
           "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/19",
@@ -769,14 +769,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/0365f216-a97d-4174-bec1-21175b071231/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/747f2943-4aca-4ee0-bc2a-5739c896ebdd/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 23610,
-                "height": 18200,
+                "width": 11171,
+                "height": 8700,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/0365f216-a97d-4174-bec1-21175b071231",
+                    "id": "https://api.nga.gov/iiif/747f2943-4aca-4ee0-bc2a-5739c896ebdd",
                     "type": "ImageService2",
                     "profile": "level2"
                   }

@@ -43,6 +43,12 @@ def generate_iiif_manifest(selected_items):
             "label": { "en": [ clean_text(item.get('title', 'Untitled')) ] },
             "width": w,
             "height": h,
+            "metadata": [
+                {
+                "label": { "en": [ "Artist" ] },
+                "value": { "en": [ clean_text(item.get('attribution', 'Unknown Artist')) ] }
+                }
+            ],
             "items": [{
                 "id": f"{BASE_URL}/page/{i}",
                 "type": "AnnotationPage",

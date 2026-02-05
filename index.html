@@ -94,7 +94,8 @@
                     card.innerHTML = `
                         <img src="${thumbUrl}" class="thumb" alt="${canvas.label.en[0]}">
                         <div class="card-title"><strong>${canvas.label.en[0]}</strong></div>
-                        <a href="${fullImgUrl}" target="_blank" class="btn">View Full Image</a>
+                        <div class="card-title"><strong>${canvas.metadata.label.en[0]}</strong></div>
+                        <a href="${fullImgUrl}" target="_blank" class="btn">View and Download Image</a>
                     `;
                     gallery.appendChild(card);
                 });

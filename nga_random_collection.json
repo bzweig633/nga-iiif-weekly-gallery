@@ -13,11 +13,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Madame Picasso"
+          "The Nativity"
         ]
       },
-      "width": 18226,
-      "height": 22528,
+      "width": 21994,
+      "height": 30555,
       "metadata": [
         {
           "label": {
@@ -27,7 +27,7 @@
           },
           "value": {
             "en": [
-              "Pablo Picasso"
+              "Juan de Flandes"
             ]
           }
         }
@@ -42,14 +42,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/1847f0f6-ed9d-4724-80e3-80066816d7cb/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dd9974c4-961f-42fc-97ce-18b07547579d/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 18226,
-                "height": 22528,
+                "width": 21994,
+                "height": 30555,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/1847f0f6-ed9d-4724-80e3-80066816d7cb",
+                    "id": "https://api.nga.gov/iiif/dd9974c4-961f-42fc-97ce-18b07547579d",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -66,11 +66,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Nude"
+          "Palmer River"
         ]
       },
-      "width": 5299,
-      "height": 6712,
+      "width": 33389,
+      "height": 23260,
       "metadata": [
         {
           "label": {
@@ -80,7 +80,7 @@
           },
           "value": {
             "en": [
-              "William Merritt Chase"
+              "Edward Mitchell Bannister"
             ]
           }
         }
@@ -95,14 +95,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/5af60021-4d26-4879-9017-6fd88e043469/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/4213b1a0-1c20-48e6-add3-63973d82c62f/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 5299,
-                "height": 6712,
+                "width": 33389,
+                "height": 23260,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/5af60021-4d26-4879-9017-6fd88e043469",
+                    "id": "https://api.nga.gov/iiif/4213b1a0-1c20-48e6-add3-63973d82c62f",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -119,329 +119,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Indian Composition"
+          "The Kitchen Maid"
         ]
       },
-      "width": 18578,
-      "height": 23852,
-      "metadata": [
-        {
-          "label": {
-            "en": [
-              "Artist"
-            ]
-          },
-          "value": {
-            "en": [
-              "George Lovett Kingsland Morris"
-            ]
-          }
-        }
-      ],
-      "items": [
-        {
-          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/2",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/2",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://api.nga.gov/iiif/60b18ca5-805e-42a7-92a9-4b37da87ef65/full/max/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 18578,
-                "height": 23852,
-                "service": [
-                  {
-                    "id": "https://api.nga.gov/iiif/60b18ca5-805e-42a7-92a9-4b37da87ef65",
-                    "type": "ImageService2",
-                    "profile": "level2"
-                  }
-                ]
-              },
-              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p2"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p3",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Thérèse Louise de Sureda"
-        ]
-      },
-      "width": 11228,
-      "height": 17078,
-      "metadata": [
-        {
-          "label": {
-            "en": [
-              "Artist"
-            ]
-          },
-          "value": {
-            "en": [
-              "Francisco Goya"
-            ]
-          }
-        }
-      ],
-      "items": [
-        {
-          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/3",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/3",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://api.nga.gov/iiif/592478a1-a524-4b37-a58e-241a790fe04c/full/max/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 11228,
-                "height": 17078,
-                "service": [
-                  {
-                    "id": "https://api.nga.gov/iiif/592478a1-a524-4b37-a58e-241a790fe04c",
-                    "type": "ImageService2",
-                    "profile": "level2"
-                  }
-                ]
-              },
-              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p3"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p4",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Rowley"
-        ]
-      },
-      "width": 17914,
-      "height": 17898,
-      "metadata": [
-        {
-          "label": {
-            "en": [
-              "Artist"
-            ]
-          },
-          "value": {
-            "en": [
-              "Frank Stella"
-            ]
-          }
-        }
-      ],
-      "items": [
-        {
-          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/4",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/4",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://api.nga.gov/iiif/b7db7812-c30d-4d37-afcf-70b232a4f350/full/max/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 17914,
-                "height": 17898,
-                "service": [
-                  {
-                    "id": "https://api.nga.gov/iiif/b7db7812-c30d-4d37-afcf-70b232a4f350",
-                    "type": "ImageService2",
-                    "profile": "level2"
-                  }
-                ]
-              },
-              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p4"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p5",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "The Handsome Dance - Goo-a-give"
-        ]
-      },
-      "width": 10939,
-      "height": 8658,
-      "metadata": [
-        {
-          "label": {
-            "en": [
-              "Artist"
-            ]
-          },
-          "value": {
-            "en": [
-              "George Catlin"
-            ]
-          }
-        }
-      ],
-      "items": [
-        {
-          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/5",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/5",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://api.nga.gov/iiif/b1e2fb3f-7118-484a-931a-c42e9f3c7838/full/max/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 10939,
-                "height": 8658,
-                "service": [
-                  {
-                    "id": "https://api.nga.gov/iiif/b1e2fb3f-7118-484a-931a-c42e9f3c7838",
-                    "type": "ImageService2",
-                    "profile": "level2"
-                  }
-                ]
-              },
-              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p5"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p6",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Mrs. Asa Benjamin"
-        ]
-      },
-      "width": 6618,
-      "height": 7949,
-      "metadata": [
-        {
-          "label": {
-            "en": [
-              "Artist"
-            ]
-          },
-          "value": {
-            "en": [
-              "William Jennys"
-            ]
-          }
-        }
-      ],
-      "items": [
-        {
-          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/6",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/6",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://api.nga.gov/iiif/38b09901-0c91-4d8d-802e-93d297fb406b/full/max/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 6618,
-                "height": 7949,
-                "service": [
-                  {
-                    "id": "https://api.nga.gov/iiif/38b09901-0c91-4d8d-802e-93d297fb406b",
-                    "type": "ImageService2",
-                    "profile": "level2"
-                  }
-                ]
-              },
-              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p6"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p7",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Montagne Sainte-Victoire, from near Gardanne"
-        ]
-      },
-      "width": 17962,
-      "height": 13099,
-      "metadata": [
-        {
-          "label": {
-            "en": [
-              "Artist"
-            ]
-          },
-          "value": {
-            "en": [
-              "Paul Cezanne"
-            ]
-          }
-        }
-      ],
-      "items": [
-        {
-          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/7",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/7",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://api.nga.gov/iiif/ab3bbe10-cfa7-479b-86df-d13a476e975c/full/max/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 17962,
-                "height": 13099,
-                "service": [
-                  {
-                    "id": "https://api.nga.gov/iiif/ab3bbe10-cfa7-479b-86df-d13a476e975c",
-                    "type": "ImageService2",
-                    "profile": "level2"
-                  }
-                ]
-              },
-              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p7"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p8",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Still Life with Game"
-        ]
-      },
-      "width": 5873,
-      "height": 4907,
+      "width": 9795,
+      "height": 12253,
       "metadata": [
         {
           "label": {
@@ -458,6 +140,324 @@
       ],
       "items": [
         {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/209cd1af-4d16-442b-b196-ae7bcb3cca22/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 9795,
+                "height": 12253,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/209cd1af-4d16-442b-b196-ae7bcb3cca22",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p3",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Bare Knuckles"
+        ]
+      },
+      "width": 6638,
+      "height": 4077,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Artist"
+            ]
+          },
+          "value": {
+            "en": [
+              "George A. Hayes"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/3",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/6a36e96e-dc93-4fac-a9e4-b203751db520/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 6638,
+                "height": 4077,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/6a36e96e-dc93-4fac-a9e4-b203751db520",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p4",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Hare and Hunting Boots"
+        ]
+      },
+      "width": 12861,
+      "height": 13776,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Artist"
+            ]
+          },
+          "value": {
+            "en": [
+              "Walt Kuhn"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/4",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/384c6861-b16c-4d56-bf1c-8274162059e0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 12861,
+                "height": 13776,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/384c6861-b16c-4d56-bf1c-8274162059e0",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p5",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Hound and Hunter"
+        ]
+      },
+      "width": 35432,
+      "height": 20615,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Artist"
+            ]
+          },
+          "value": {
+            "en": [
+              "Winslow Homer"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/5",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/aff699f3-2ce5-4b10-b58d-0736f1ae3760/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 35432,
+                "height": 20615,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/aff699f3-2ce5-4b10-b58d-0736f1ae3760",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p6",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Merry Company on a Terrace"
+        ]
+      },
+      "width": 24398,
+      "height": 18322,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Artist"
+            ]
+          },
+          "value": {
+            "en": [
+              "Dirck Hals"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/6",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/aa33172d-31cf-4990-a25a-9c77b6cecbe3/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 24398,
+                "height": 18322,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/aa33172d-31cf-4990-a25a-9c77b6cecbe3",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p7",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Fruit and Flowers"
+        ]
+      },
+      "width": 7369,
+      "height": 4671,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Artist"
+            ]
+          },
+          "value": {
+            "en": [
+              "American 19th Century"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/7",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/2ba04c6c-7a0b-4357-9f09-fb35018e330b/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 7369,
+                "height": 4671,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/2ba04c6c-7a0b-4357-9f09-fb35018e330b",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p8",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Departure for the Hunt in the Pontine Marshes"
+        ]
+      },
+      "width": 22917,
+      "height": 16698,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Artist"
+            ]
+          },
+          "value": {
+            "en": [
+              "Horace Vernet"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
           "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/8",
           "type": "AnnotationPage",
           "items": [
@@ -466,14 +466,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/e85f4ab8-8849-4033-85e8-0ef62cd1f533/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/1eda6869-15cd-4148-99b0-a642def8e780/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 5873,
-                "height": 4907,
+                "width": 22917,
+                "height": 16698,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/e85f4ab8-8849-4033-85e8-0ef62cd1f533",
+                    "id": "https://api.nga.gov/iiif/1eda6869-15cd-4148-99b0-a642def8e780",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -490,11 +490,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "George Pollock"
+          "Horizontals Flanking (Small, Thalo-Green Line)"
         ]
       },
-      "width": 5028,
-      "height": 6485,
+      "width": 7296,
+      "height": 5416,
       "metadata": [
         {
           "label": {
@@ -504,7 +504,7 @@
           },
           "value": {
             "en": [
-              "Gilbert Stuart"
+              "Jo Baer"
             ]
           }
         }
@@ -519,14 +519,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/bc5eeec2-c04b-4a1c-b9d1-6a0a355cf2ca/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/73465747-d98a-4406-9773-8c41d7ac7f53/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 5028,
-                "height": 6485,
+                "width": 7296,
+                "height": 5416,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/bc5eeec2-c04b-4a1c-b9d1-6a0a355cf2ca",
+                    "id": "https://api.nga.gov/iiif/73465747-d98a-4406-9773-8c41d7ac7f53",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -543,11 +543,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Saida"
+          "Large Vase with Flowers"
         ]
       },
-      "width": 10719,
-      "height": 12792,
+      "width": 11448,
+      "height": 15218,
       "metadata": [
         {
           "label": {
@@ -557,7 +557,7 @@
           },
           "value": {
             "en": [
-              "Kees van Dongen"
+              "Odilon Redon"
             ]
           }
         }
@@ -572,14 +572,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/78a35920-44cb-4122-b46b-fa6b0507f88d/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/2e81c5f6-da7d-4a4d-932c-ad5f7f5ce9bc/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 10719,
-                "height": 12792,
+                "width": 11448,
+                "height": 15218,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/78a35920-44cb-4122-b46b-fa6b0507f88d",
+                    "id": "https://api.nga.gov/iiif/2e81c5f6-da7d-4a4d-932c-ad5f7f5ce9bc",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -596,11 +596,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Country House in a Park"
+          "Prairie Meadows Burning"
         ]
       },
-      "width": 7741,
-      "height": 6036,
+      "width": 7601,
+      "height": 5944,
       "metadata": [
         {
           "label": {
@@ -610,7 +610,7 @@
           },
           "value": {
             "en": [
-              "Jacob van Ruisdael"
+              "George Catlin"
             ]
           }
         }
@@ -625,14 +625,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/00209fb1-64a2-4961-9ccc-8c6c06117df2/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/fdcff778-eb4c-4234-abce-0991ee578a25/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 7741,
-                "height": 6036,
+                "width": 7601,
+                "height": 5944,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/00209fb1-64a2-4961-9ccc-8c6c06117df2",
+                    "id": "https://api.nga.gov/iiif/fdcff778-eb4c-4234-abce-0991ee578a25",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -649,11 +649,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Untitled"
+          "On the Coast of New Jersey"
         ]
       },
-      "width": 1600,
-      "height": 1125,
+      "width": 44217,
+      "height": 24478,
       "metadata": [
         {
           "label": {
@@ -663,7 +663,7 @@
           },
           "value": {
             "en": [
-              "Mark Rothko"
+              "William Trost Richards"
             ]
           }
         }
@@ -678,14 +678,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/bb618ae8-92b3-479c-97bd-5c4048993204/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/bbcdf5c0-104b-47c4-bd1c-dd4d3f66e8b7/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 1600,
-                "height": 1125,
+                "width": 44217,
+                "height": 24478,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/bb618ae8-92b3-479c-97bd-5c4048993204",
+                    "id": "https://api.nga.gov/iiif/bbcdf5c0-104b-47c4-bd1c-dd4d3f66e8b7",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -702,11 +702,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Francesco II Gonzaga, Fourth Marquis of Mantua"
+          "White Curve VIII"
         ]
       },
-      "width": 5264,
-      "height": 6726,
+      "width": 17389,
+      "height": 21732,
       "metadata": [
         {
           "label": {
@@ -716,7 +716,7 @@
           },
           "value": {
             "en": [
-              "Baldassare d'Este"
+              "Ellsworth Kelly"
             ]
           }
         }
@@ -731,14 +731,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/a2c98cf7-cb29-43d0-a153-30d067973032/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/c473f61b-acf3-4103-ab4e-3beae5d48ced/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 5264,
-                "height": 6726,
+                "width": 17389,
+                "height": 21732,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/a2c98cf7-cb29-43d0-a153-30d067973032",
+                    "id": "https://api.nga.gov/iiif/c473f61b-acf3-4103-ab4e-3beae5d48ced",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -755,11 +755,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "The Old Port of Marseille"
+          "Facsimile of a Pawnee Doctor's Robe"
         ]
       },
-      "width": 5984,
-      "height": 4830,
+      "width": 6377,
+      "height": 4972,
       "metadata": [
         {
           "label": {
@@ -769,7 +769,7 @@
           },
           "value": {
             "en": [
-              "Maurice de Vlaminck"
+              "George Catlin"
             ]
           }
         }
@@ -784,14 +784,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/c1ddcf79-86d7-466a-a44a-b17bf95d9e29/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/60707766-2bf0-4380-a186-bd2c74ea2b4d/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 5984,
-                "height": 4830,
+                "width": 6377,
+                "height": 4972,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/c1ddcf79-86d7-466a-a44a-b17bf95d9e29",
+                    "id": "https://api.nga.gov/iiif/60707766-2bf0-4380-a186-bd2c74ea2b4d",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -808,11 +808,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Estuary at Day's End"
+          "The Dancer"
         ]
       },
-      "width": 9451,
-      "height": 5779,
+      "width": 16208,
+      "height": 24531,
       "metadata": [
         {
           "label": {
@@ -822,7 +822,7 @@
           },
           "value": {
             "en": [
-              "Simon de Vlieger"
+              "Auguste Renoir"
             ]
           }
         }
@@ -837,14 +837,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/7b291c7b-c0ab-4e88-af6c-31a821a3f8cc/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/a0d45209-46bf-49c4-a6ba-8c0a1e1ea482/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 9451,
-                "height": 5779,
+                "width": 16208,
+                "height": 24531,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/7b291c7b-c0ab-4e88-af6c-31a821a3f8cc",
+                    "id": "https://api.nga.gov/iiif/a0d45209-46bf-49c4-a6ba-8c0a1e1ea482",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -861,11 +861,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "One Year the Milkweed"
+          "Haymakers at Montfermeil"
         ]
       },
-      "width": 20043,
-      "height": 15683,
+      "width": 6554,
+      "height": 4106,
       "metadata": [
         {
           "label": {
@@ -875,7 +875,7 @@
           },
           "value": {
             "en": [
-              "Arshile Gorky"
+              "Georges Seurat"
             ]
           }
         }
@@ -890,14 +890,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/98014fdf-628f-4fa6-8afe-f037471b1be1/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/37a979be-f546-4a46-856c-fe23a2350a84/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 20043,
-                "height": 15683,
+                "width": 6554,
+                "height": 4106,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/98014fdf-628f-4fa6-8afe-f037471b1be1",
+                    "id": "https://api.nga.gov/iiif/37a979be-f546-4a46-856c-fe23a2350a84",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -914,11 +914,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "The Temptation of Saint Anthony"
+          "Pope Innocent X"
         ]
       },
-      "width": 27821,
-      "height": 18971,
+      "width": 9555,
+      "height": 11565,
       "metadata": [
         {
           "label": {
@@ -928,7 +928,7 @@
           },
           "value": {
             "en": [
-              "Follower of Pieter Bruegel the Elder"
+              "Circle of Diego Velázquez"
             ]
           }
         }
@@ -943,14 +943,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/a0ecb44d-b5b2-4b04-9b63-0446937f4afb/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/da9c1054-627f-4caf-bbdc-4faf97a779a8/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 27821,
-                "height": 18971,
+                "width": 9555,
+                "height": 11565,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/a0ecb44d-b5b2-4b04-9b63-0446937f4afb",
+                    "id": "https://api.nga.gov/iiif/da9c1054-627f-4caf-bbdc-4faf97a779a8",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -967,11 +967,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Thirteenth Station"
+          "Harvest Scene in the Delaware Valley"
         ]
       },
-      "width": 5268,
-      "height": 6892,
+      "width": 33445,
+      "height": 22135,
       "metadata": [
         {
           "label": {
@@ -981,7 +981,7 @@
           },
           "value": {
             "en": [
-              "Barnett Newman"
+              "George Inness"
             ]
           }
         }
@@ -996,14 +996,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/47d0da5a-88d1-4012-a059-d23a2670956e/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/11dc7010-58a3-465a-8134-7a08a563294a/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 5268,
-                "height": 6892,
+                "width": 33445,
+                "height": 22135,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/47d0da5a-88d1-4012-a059-d23a2670956e",
+                    "id": "https://api.nga.gov/iiif/11dc7010-58a3-465a-8134-7a08a563294a",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -1020,11 +1020,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Mount Vernon"
+          "Saint Martin and the Beggar"
         ]
       },
-      "width": 6982,
-      "height": 4766,
+      "width": 23151,
+      "height": 39905,
       "metadata": [
         {
           "label": {
@@ -1034,7 +1034,7 @@
           },
           "value": {
             "en": [
-              "George Ropes"
+              "Workshop of El Greco (Domenikos Theotokopoulos)"
             ]
           }
         }
@@ -1049,14 +1049,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/9729c6ff-802c-4b44-8df2-e2d26dff627b/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/853fd837-d70a-4d5f-856c-3dfbf5f109f5/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 6982,
-                "height": 4766,
+                "width": 23151,
+                "height": 39905,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/9729c6ff-802c-4b44-8df2-e2d26dff627b",
+                    "id": "https://api.nga.gov/iiif/853fd837-d70a-4d5f-856c-3dfbf5f109f5",
                     "type": "ImageService2",
                     "profile": "level2"
                   }

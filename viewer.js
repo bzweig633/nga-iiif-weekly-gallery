@@ -10,40 +10,23 @@
                 manifestId: 'https://bzweig633.github.io/nga-iiif-weekly-gallery/nga_random_collection.json',
                 sideBarOpen: false,
                 thumbnailNavigationPosition: 'far-bottom',
+                defaultView: 'single',
             }],
             window: {
                 allowClose: false,
+                allowMaximize: false,
                 defaultSideBarPanel: 'info',
+                // This tells Mirador to reset the zoom every time the canvas changes
+                forceContext: true, 
+            },
+            // We pass settings directly to the internal OpenSeadragon engine
+            osdConfig: {
+                preserveViewport: false, // This is the "magic" setting for centering
+                visibilityRatio: 1,
+                minZoomLevel: 0,
+                homeFillsViewer: true
             },
             workspaceControlPanel: { enabled: false }
-        });
-
-        // Track the current canvas so we only reset when it actually changes
-        let lastCanvasId = null;
-
-        miradorInstance.store.subscribe(() => {
-            const state = miradorInstance.store.getState();
-            const windowId = Object.keys(state.windows)[0];
-            if (!windowId) return;
-
-            const currentCanvasId = state.windows[windowId].canvasId;
-
-            // Only act if the canvas has changed
-            if (currentCanvasId && currentCanvasId !== lastCanvasId) {
-                lastCanvasId = currentCanvasId;
-
-                // We use a slight delay to ensure the new image has begun loading 
-                // before we tell the viewer to 'Fit' it to the window.
-                setTimeout(() => {
-                    miradorInstance.store.dispatch({
-                        type: 'mirador/UPDATE_WINDOW',
-                        windowId: windowId,
-                        payload: {
-                            view: 'single' // This forces a re-render of the 'single' view
-                        }
-                    });
-                }, 100);
-            }
         });
     };
 })();

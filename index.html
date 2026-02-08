@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>NGA Daily Gallery</title>
-    <script src="clover-viewer.js"></script>
+     <script src="osd-viewer.js"></script>
     <style>
         body { margin: 0; background: #FFFF color: #eee; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
         .container { max-width: 1200px; margin: 0 auto; padding: 2rem; }
@@ -44,18 +44,15 @@
             font-weight: bold; 
             border-radius: 4px; 
             font-size: 0.8rem;
+            }  
+
+    #osd-viewer {
+            width: 100%;
+            height: 600px;
+            background-color: #111; /* Dark background for the art */
+            border: 1px solid #333;
+            margin-bottom: 2rem;
             }
-
-        clover-viewer {
-        display: block;
-        height: 600px; /* Force it to take up space */
-        width: 100%;
-        margin-bottom: 3em;
-        }
-
-        .clover-wrapper {
-        margin-bottom: 10em;
-        }    
         
     </style>
 
@@ -64,9 +61,7 @@
     <div class="container">
         <h1>Daily NGA Curated Gallery</h1>
         
-        <div class="clover-wrapper">
-            <div id="clover-anchor"></div>
-        </div>
+       <div id="osd-viewer"></div>
             
         <hr style="margin: 40px 0; border: 0; border-top: 1px solid #333;">
 

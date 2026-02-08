@@ -13,11 +13,11 @@
 
         // Configure options: Set information panel to closed
         // In the web component, this is handled via the 'options' attribute as a JSON string
-        const options = {{
+        const options = {
             informationPanel: {
                 open: false,
-            },
-        }};
+            }
+        };
 
         viewer.setAttribute('options', options);
         

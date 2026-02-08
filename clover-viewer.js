@@ -11,9 +11,6 @@
 
         const viewer = document.createElement('clover-viewer');
 
-        // Set the Manifest URL
-        viewer.setAttribute('iiif-content', 'https://bzweig633.github.io/nga-iiif-weekly-gallery/nga_random_collection.json');
-
         // Configure options: Set information panel to closed
         // In the web component, this is handled via the 'options' attribute as a JSON string
         const options = {
@@ -21,7 +18,11 @@
                 open: false,
             }
         };
+
         viewer.setAttribute('options', JSON.stringify(options));
+        
+        // Set the Manifest URL
+        viewer.setAttribute('iiif-content', 'https://bzweig633.github.io/nga-iiif-weekly-gallery/nga_random_collection.json');
 
         // Inject into the DOM
         anchor.appendChild(viewer);

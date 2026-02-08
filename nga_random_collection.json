@@ -13,11 +13,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Under Full Sail"
+          "Three Peaches on a Plate"
         ]
       },
-      "width": 4366,
-      "height": 5569,
+      "width": 4699,
+      "height": 3528,
       "metadata": [
         {
           "label": {
@@ -27,7 +27,7 @@
           },
           "value": {
             "en": [
-              "American 19th Century"
+              "Henri Fantin-Latour"
             ]
           }
         }
@@ -42,14 +42,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/27b01e86-5643-4b46-8dd9-e72bccd107eb/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/382f0d18-13f7-4d42-8a39-053b781541e3/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 4366,
-                "height": 5569,
+                "width": 4699,
+                "height": 3528,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/27b01e86-5643-4b46-8dd9-e72bccd107eb",
+                    "id": "https://api.nga.gov/iiif/382f0d18-13f7-4d42-8a39-053b781541e3",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -66,11 +66,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Pope Innocent X"
+          "Saint Jerome Reading"
         ]
       },
-      "width": 9555,
-      "height": 11565,
+      "width": 10255,
+      "height": 12994,
       "metadata": [
         {
           "label": {
@@ -80,7 +80,7 @@
           },
           "value": {
             "en": [
-              "Circle of Diego Velázquez"
+              "Giovanni Bellini"
             ]
           }
         }
@@ -95,14 +95,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/da9c1054-627f-4caf-bbdc-4faf97a779a8/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/1aa5a852-ac13-42ad-860d-e5606c0e8587/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 9555,
-                "height": 11565,
+                "width": 10255,
+                "height": 12994,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/da9c1054-627f-4caf-bbdc-4faf97a779a8",
+                    "id": "https://api.nga.gov/iiif/1aa5a852-ac13-42ad-860d-e5606c0e8587",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -119,11 +119,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "The Choristers"
+          "Madonna and Child"
         ]
       },
-      "width": 21091,
-      "height": 26411,
+      "width": 17384,
+      "height": 24976,
       "metadata": [
         {
           "label": {
@@ -133,7 +133,7 @@
           },
           "value": {
             "en": [
-              "Alessandro Magnasco"
+              "after Andrea del Verrocchio"
             ]
           }
         }
@@ -148,14 +148,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/259bb66c-762d-426a-89e3-851d553988db/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/84719d50-679d-4c7f-9df0-0af6d44700d3/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 21091,
-                "height": 26411,
+                "width": 17384,
+                "height": 24976,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/259bb66c-762d-426a-89e3-851d553988db",
+                    "id": "https://api.nga.gov/iiif/84719d50-679d-4c7f-9df0-0af6d44700d3",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -172,11 +172,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Muro Romano"
+          "The Finding of Moses"
         ]
       },
-      "width": 5196,
-      "height": 3480,
+      "width": 5139,
+      "height": 3534,
       "metadata": [
         {
           "label": {
@@ -186,7 +186,7 @@
           },
           "value": {
             "en": [
-              "Mimmo Rotella"
+              "Sébastien Bourdon"
             ]
           }
         }
@@ -201,14 +201,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/4e237220-1d34-4406-81bb-d390a2075c20/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/87bbd92f-9e97-4f01-ad22-ce8d7267798d/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 5196,
-                "height": 3480,
+                "width": 5139,
+                "height": 3534,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/4e237220-1d34-4406-81bb-d390a2075c20",
+                    "id": "https://api.nga.gov/iiif/87bbd92f-9e97-4f01-ad22-ce8d7267798d",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -225,11 +225,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Untitled"
+          "Young Woman with a Straw Hat"
         ]
       },
-      "width": 834,
-      "height": 1200,
+      "width": 5567,
+      "height": 6624,
       "metadata": [
         {
           "label": {
@@ -239,7 +239,7 @@
           },
           "value": {
             "en": [
-              "Mark Rothko"
+              "Berthe Morisot"
             ]
           }
         }
@@ -254,14 +254,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/044c0b5f-9a80-4438-8001-68c225f5abfe/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/057b18ed-2c6c-44f5-a8c0-3e7aa95ab038/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 834,
-                "height": 1200,
+                "width": 5567,
+                "height": 6624,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/044c0b5f-9a80-4438-8001-68c225f5abfe",
+                    "id": "https://api.nga.gov/iiif/057b18ed-2c6c-44f5-a8c0-3e7aa95ab038",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -278,11 +278,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Vase of Morning Glories"
+          "Joseph Slade"
         ]
       },
-      "width": 9916,
-      "height": 12845,
+      "width": 4926,
+      "height": 5999,
       "metadata": [
         {
           "label": {
@@ -292,7 +292,7 @@
           },
           "value": {
             "en": [
-              "Hannah Brown Skeele"
+              "Ammi Phillips"
             ]
           }
         }
@@ -307,14 +307,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/10400d8b-a987-48c4-99f2-5385dd5bfb1a/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e378c067-99ad-477f-bee1-e3db3eeda62a/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 9916,
-                "height": 12845,
+                "width": 4926,
+                "height": 5999,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/10400d8b-a987-48c4-99f2-5385dd5bfb1a",
+                    "id": "https://api.nga.gov/iiif/e378c067-99ad-477f-bee1-e3db3eeda62a",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -331,11 +331,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Falls of the Snake River"
+          "Chyrow II"
         ]
       },
-      "width": 7579,
-      "height": 5913,
+      "width": 3918,
+      "height": 5352,
       "metadata": [
         {
           "label": {
@@ -345,7 +345,7 @@
           },
           "value": {
             "en": [
-              "George Catlin"
+              "Frank Stella"
             ]
           }
         }
@@ -360,14 +360,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/06960c31-3062-41c7-b6f5-5af31044ce96/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/47ff4cbd-d757-48ec-be8f-2e5bdc89f490/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 7579,
-                "height": 5913,
+                "width": 3918,
+                "height": 5352,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/06960c31-3062-41c7-b6f5-5af31044ce96",
+                    "id": "https://api.nga.gov/iiif/47ff4cbd-d757-48ec-be8f-2e5bdc89f490",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -384,11 +384,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Still Life with Bottles and Fruit"
+          "Falling Man"
         ]
       },
-      "width": 3532,
-      "height": 3527,
+      "width": 13075,
+      "height": 20682,
       "metadata": [
         {
           "label": {
@@ -398,7 +398,7 @@
           },
           "value": {
             "en": [
-              "Alexej von Jawlensky"
+              "Max Beckmann"
             ]
           }
         }
@@ -413,14 +413,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/1f52e0d0-5111-4098-954a-452e1e0eee05/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/672f2b8b-066a-4f6f-bec4-53b1d317eee9/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 3532,
-                "height": 3527,
+                "width": 13075,
+                "height": 20682,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/1f52e0d0-5111-4098-954a-452e1e0eee05",
+                    "id": "https://api.nga.gov/iiif/672f2b8b-066a-4f6f-bec4-53b1d317eee9",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -437,11 +437,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "The Adoration of the Shepherds"
+          "Saint Apollonia"
         ]
       },
-      "width": 17977,
-      "height": 12477,
+      "width": 16346,
+      "height": 22518,
       "metadata": [
         {
           "label": {
@@ -451,7 +451,7 @@
           },
           "value": {
             "en": [
-              "Giovanni Girolamo Savoldo"
+              "Attributed to Piero della Francesca"
             ]
           }
         }
@@ -466,14 +466,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/2503e799-4135-4df3-91bd-48bdfbbf2873/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/86098116-ac10-4aca-bb24-d51a576ac15c/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 17977,
-                "height": 12477,
+                "width": 16346,
+                "height": 22518,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/2503e799-4135-4df3-91bd-48bdfbbf2873",
+                    "id": "https://api.nga.gov/iiif/86098116-ac10-4aca-bb24-d51a576ac15c",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -490,11 +490,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Alexander the Great Threatened by His Father"
+          "When I Was Young"
         ]
       },
-      "width": 4423,
-      "height": 5997,
+      "width": 16401,
+      "height": 24686,
       "metadata": [
         {
           "label": {
@@ -504,7 +504,7 @@
           },
           "value": {
             "en": [
-              "Donato Creti"
+              "Enrico Baj"
             ]
           }
         }
@@ -519,14 +519,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/2a459971-4db4-4165-a368-358029dbe200/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/42afcf28-0a85-4825-8a76-802ef10b013f/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 4423,
-                "height": 5997,
+                "width": 16401,
+                "height": 24686,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/2a459971-4db4-4165-a368-358029dbe200",
+                    "id": "https://api.nga.gov/iiif/42afcf28-0a85-4825-8a76-802ef10b013f",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -543,11 +543,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Another Time"
+          "An Architectural Fantasy"
         ]
       },
-      "width": 6413,
-      "height": 6455,
+      "width": 16952,
+      "height": 11830,
       "metadata": [
         {
           "label": {
@@ -557,7 +557,7 @@
           },
           "value": {
             "en": [
-              "Kenneth Noland"
+              "Jan van der Heyden"
             ]
           }
         }
@@ -572,14 +572,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/38193694-47ef-4e25-af06-871286a55892/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/dc7a3202-71c4-4e1a-ad6e-db7772d2084a/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 6413,
-                "height": 6455,
+                "width": 16952,
+                "height": 11830,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/38193694-47ef-4e25-af06-871286a55892",
+                    "id": "https://api.nga.gov/iiif/dc7a3202-71c4-4e1a-ad6e-db7772d2084a",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -596,11 +596,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "A Woman Holding a Pink"
+          "Elizabeth Throckmorton, Canoness of the Order of the Dames Augustines Anglaises"
         ]
       },
-      "width": 18121,
-      "height": 21558,
+      "width": 3612,
+      "height": 4476,
       "metadata": [
         {
           "label": {
@@ -610,7 +610,7 @@
           },
           "value": {
             "en": [
-              "Rembrandt van Rijn"
+              "Nicolas de Largillierre"
             ]
           }
         }
@@ -625,14 +625,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/9ceabc07-1d61-46f4-bf5c-43635552f2d9/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/6c86ae6f-7b32-445b-bb42-ac361bbf8ef8/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 18121,
-                "height": 21558,
+                "width": 3612,
+                "height": 4476,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/9ceabc07-1d61-46f4-bf5c-43635552f2d9",
+                    "id": "https://api.nga.gov/iiif/6c86ae6f-7b32-445b-bb42-ac361bbf8ef8",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -649,11 +649,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Martyrdom of Saint Margaret"
+          "Harbor"
         ]
       },
-      "width": 4785,
-      "height": 6598,
+      "width": 12295,
+      "height": 10137,
       "metadata": [
         {
           "label": {
@@ -663,7 +663,7 @@
           },
           "value": {
             "en": [
-              "Giuseppe Cesari, called Cavaliere d'Arpino"
+              "Georges Braque"
             ]
           }
         }
@@ -678,14 +678,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/eb807a2b-ff3f-4113-8617-d2575a2b4f2d/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/d6c09538-9c29-4ce5-b0d5-2cac2c596842/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 4785,
-                "height": 6598,
+                "width": 12295,
+                "height": 10137,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/eb807a2b-ff3f-4113-8617-d2575a2b4f2d",
+                    "id": "https://api.nga.gov/iiif/d6c09538-9c29-4ce5-b0d5-2cac2c596842",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -702,11 +702,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Tiptoe Through the Tulips"
+          "The Church of Souain"
         ]
       },
-      "width": 17612,
-      "height": 18445,
+      "width": 12259,
+      "height": 9143,
       "metadata": [
         {
           "label": {
@@ -716,7 +716,7 @@
           },
           "value": {
             "en": [
-              "Alma Thomas"
+              "Félix Vallotton"
             ]
           }
         }
@@ -731,14 +731,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/0ae30455-d12e-45fc-87a6-eedf81fb3388/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/d24bdec0-5069-4768-96bd-583ca9629c0f/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 17612,
-                "height": 18445,
+                "width": 12259,
+                "height": 9143,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/0ae30455-d12e-45fc-87a6-eedf81fb3388",
+                    "id": "https://api.nga.gov/iiif/d24bdec0-5069-4768-96bd-583ca9629c0f",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -755,11 +755,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Round Dance"
+          "Woman Sitting by the Fireside"
         ]
       },
-      "width": 26840,
-      "height": 22215,
+      "width": 4540,
+      "height": 3732,
       "metadata": [
         {
           "label": {
@@ -769,7 +769,7 @@
           },
           "value": {
             "en": [
-              "Emil Nolde"
+              "Edouard Vuillard"
             ]
           }
         }
@@ -784,14 +784,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/ef245fcb-29f8-45c8-b58c-b960f83320af/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/e9e472f9-3319-4b9b-804e-0ed4dcb454d6/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 26840,
-                "height": 22215,
+                "width": 4540,
+                "height": 3732,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/ef245fcb-29f8-45c8-b58c-b960f83320af",
+                    "id": "https://api.nga.gov/iiif/e9e472f9-3319-4b9b-804e-0ed4dcb454d6",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -808,11 +808,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "The Westwood Children"
+          "Puncah Chief Surrounded by His Family"
         ]
       },
-      "width": 28096,
-      "height": 24933,
+      "width": 6061,
+      "height": 4765,
       "metadata": [
         {
           "label": {
@@ -822,7 +822,7 @@
           },
           "value": {
             "en": [
-              "Joshua Johnson"
+              "George Catlin"
             ]
           }
         }
@@ -837,14 +837,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/3985dde4-8475-4df9-8ef8-5829de574a26/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/70641e6c-f2c4-4018-8dde-9ca3c903c025/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 28096,
-                "height": 24933,
+                "width": 6061,
+                "height": 4765,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/3985dde4-8475-4df9-8ef8-5829de574a26",
+                    "id": "https://api.nga.gov/iiif/70641e6c-f2c4-4018-8dde-9ca3c903c025",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -861,11 +861,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Baby at Play"
+          "Adam Babcock"
         ]
       },
-      "width": 7465,
-      "height": 5003,
+      "width": 5435,
+      "height": 6976,
       "metadata": [
         {
           "label": {
@@ -875,7 +875,7 @@
           },
           "value": {
             "en": [
-              "Thomas Eakins"
+              "John Singleton Copley"
             ]
           }
         }
@@ -890,14 +890,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/81fe0da8-b374-4749-90f1-d39b9c3d80b6/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/f806336d-3243-4934-9b01-41d9abf27575/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 7465,
-                "height": 5003,
+                "width": 5435,
+                "height": 6976,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/81fe0da8-b374-4749-90f1-d39b9c3d80b6",
+                    "id": "https://api.nga.gov/iiif/f806336d-3243-4934-9b01-41d9abf27575",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -914,11 +914,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "The Banks of the Oise"
+          "Return from a Turtle Hunt - Connibo"
         ]
       },
-      "width": 6252,
-      "height": 5181,
+      "width": 10763,
+      "height": 8396,
       "metadata": [
         {
           "label": {
@@ -928,7 +928,7 @@
           },
           "value": {
             "en": [
-              "Alfred Sisley"
+              "George Catlin"
             ]
           }
         }
@@ -943,14 +943,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/a167f440-ad1c-481e-ada0-2f6962d54e64/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/bcce9bad-e5fb-4536-9d6f-10395771a01e/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 6252,
-                "height": 5181,
+                "width": 10763,
+                "height": 8396,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/a167f440-ad1c-481e-ada0-2f6962d54e64",
+                    "id": "https://api.nga.gov/iiif/bcce9bad-e5fb-4536-9d6f-10395771a01e",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -967,11 +967,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Reconciliation Elegy"
+          "Untitled"
         ]
       },
-      "width": 15426,
-      "height": 5164,
+      "width": 3840,
+      "height": 4512,
       "metadata": [
         {
           "label": {
@@ -981,7 +981,7 @@
           },
           "value": {
             "en": [
-              "Robert Motherwell"
+              "Mark Rothko"
             ]
           }
         }
@@ -996,14 +996,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/253bc95d-8d43-4b3d-bb2f-686a09bd25df/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/40e2d788-d8c3-416c-9437-61ce1bb77183/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 15426,
-                "height": 5164,
+                "width": 3840,
+                "height": 4512,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/253bc95d-8d43-4b3d-bb2f-686a09bd25df",
+                    "id": "https://api.nga.gov/iiif/40e2d788-d8c3-416c-9437-61ce1bb77183",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -1020,11 +1020,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "John Quincy Adams"
+          "Nymphs Feeding the Child Jupiter"
         ]
       },
-      "width": 5504,
-      "height": 6688,
+      "width": 37467,
+      "height": 28163,
       "metadata": [
         {
           "label": {
@@ -1034,7 +1034,7 @@
           },
           "value": {
             "en": [
-              "Thomas Sully"
+              "Follower of Nicolas Poussin"
             ]
           }
         }
@@ -1049,14 +1049,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/878db0d1-6589-4b2a-b442-133f3d854983/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/fb490bdd-68a8-4cc2-84dc-e3422d396ca9/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 5504,
-                "height": 6688,
+                "width": 37467,
+                "height": 28163,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/878db0d1-6589-4b2a-b442-133f3d854983",
+                    "id": "https://api.nga.gov/iiif/fb490bdd-68a8-4cc2-84dc-e3422d396ca9",
                     "type": "ImageService2",
                     "profile": "level2"
                   }

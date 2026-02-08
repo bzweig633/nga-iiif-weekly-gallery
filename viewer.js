@@ -9,25 +9,26 @@
             windows: [{
                 manifestId: 'https://bzweig633.github.io/nga-iiif-weekly-gallery/nga_random_collection.json',
                 sideBarOpen: false, 
-                // This setting specifically controls the thumbnail strip for this window
-                thumbnailNavigationPosition: 'far-bottom', 
+                thumbnailNavigationPosition: 'far-bottom',
+                // This forces the image to center within its specific window
+                view: 'single', 
             }],
             window: {
                 allowClose: false,
-                sideBarPanel: 'info',
-                views: [
-                    { key: 'single', behaviors: ['individuals'] },
-                    { key: 'gallery' }
-                ],
+                allowMaximize: false,
+                hideWindowTitle: true, // Optional: keeps it cleaner
+                defaultSideBarPanel: 'info',
             },
-            // Global thumbnail settings
-            thumbnailNavigation: {
-                defaultHeight: 150, // Height of the thumbnail strip
-                displaySettings: true,
+            workspace: {
+                // 'mosaic' with a single window usually centers better than 'elastic'
+                type: 'mosaic',
+                showZoomControls: true,
             },
             workspaceControlPanel: {
                 enabled: false, 
-            }
+            },
+            // Force the layout to focus on the content
+            selectedWindowId: 'window-1'
         });
     };
 })();

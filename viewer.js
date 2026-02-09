@@ -4,31 +4,40 @@
     document.head.appendChild(script);
 
     script.onload = () => {
-        const miradorInstance = Mirador.viewer({
+        Mirador.viewer({
             id: 'mirador-viewer',
             windows: [{
                 manifestId: 'https://bzweig633.github.io/nga-iiif-weekly-gallery/nga_random_collection.json',
                 sideBarOpen: false,
                 thumbnailNavigationPosition: 'far-bottom',
-                view: 'single',
             }],
             window: {
                 allowClose: false,
                 allowMaximize: false,
                 hideWindowTitle: true,
-                // Ensures the "view" context is reset per canvas
-                forceContext: true, 
+                // These help the viewer 'snap' to the new image size faster
+                defaultView: 'single',
+                switchCanvasOnSearch: true,
             },
-            // Direct instructions to the internal OSD engine
+            // Reduce the 'tiling' effect by increasing the tile cache and reducing 'blur' transitions
             osdConfig: {
-                preserveViewport: false,    // RESET zoom on image change
-                visibilityRatio: 1.0,       // Keep the image fully in view
-                defaultZoomLevel: 0,        // 0 usually represents "Fit to window"
-                minZoomLevel: 0,
-                homeFillsViewer: true,      // Tells OSD to maximize the art in the box
-                immediateRender: true       // Speeds up the initial "fit" calculation
+                preserveViewport: false,
+                alwaysBlend: false,       // Performance: Stops the 'fading' between tiles
+                wrapHorizontal: false,
+                minZoomImageRatio: 1,     // Forces image to at least fill one dimension
+                loadTilesWithAjax: true,
+                imageLoaderLimit: 15,     // Increases parallel tile loading
             },
-            workspaceControlPanel: { enabled: false }
+            workspace: {
+                type: 'mosaic',           // Mosaic is faster than Elastic
+            },
+            workspaceControlPanel: { enabled: false },
+            // Disable animations to save CPU/GPU for rendering tiles
+            themes: {
+                default: {
+                    transitions: { create: () => 'none', duration: 0 }
+                }
+            }
         });
     };
 })();

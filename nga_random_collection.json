@@ -13,11 +13,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Andries Stilte as a Standard Bearer"
+          "The Flower Vendor"
         ]
       },
-      "width": 7268,
-      "height": 9781,
+      "width": 17581,
+      "height": 22130,
       "metadata": [
         {
           "label": {
@@ -27,7 +27,7 @@
           },
           "value": {
             "en": [
-              "Johannes Cornelisz Verspronck"
+              "Jean François Raffaëlli"
             ]
           }
         }
@@ -42,14 +42,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/9cd3e84a-5796-4b08-82e9-1053206885c3/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/46098b77-08ae-4881-b795-88b8ae16332d/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 7268,
-                "height": 9781,
+                "width": 17581,
+                "height": 22130,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/9cd3e84a-5796-4b08-82e9-1053206885c3",
+                    "id": "https://api.nga.gov/iiif/46098b77-08ae-4881-b795-88b8ae16332d",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -66,11 +66,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Landscape between Storms"
+          "Madonna and Child"
         ]
       },
-      "width": 6486,
-      "height": 4734,
+      "width": 4602,
+      "height": 5941,
       "metadata": [
         {
           "label": {
@@ -80,7 +80,7 @@
           },
           "value": {
             "en": [
-              "Auguste Renoir"
+              "Bartolomeo Vivarini"
             ]
           }
         }
@@ -95,14 +95,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/33e69f85-6eec-4d80-8ddd-48fde0795bef/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/8af6e0ff-0847-4335-8fe3-72702e74fca5/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 6486,
-                "height": 4734,
+                "width": 4602,
+                "height": 5941,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/33e69f85-6eec-4d80-8ddd-48fde0795bef",
+                    "id": "https://api.nga.gov/iiif/8af6e0ff-0847-4335-8fe3-72702e74fca5",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -119,752 +119,10 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Carrières-Saint-Denis"
+          "Ojibbeway Indians in Paris"
         ]
       },
-      "width": 6120,
-      "height": 4787,
-      "metadata": [
-        {
-          "label": {
-            "en": [
-              "Artist"
-            ]
-          },
-          "value": {
-            "en": [
-              "Maurice de Vlaminck"
-            ]
-          }
-        }
-      ],
-      "items": [
-        {
-          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/2",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/2",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://api.nga.gov/iiif/86fdb464-fe18-4a82-9ec2-fd151ccb136a/full/max/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 6120,
-                "height": 4787,
-                "service": [
-                  {
-                    "id": "https://api.nga.gov/iiif/86fdb464-fe18-4a82-9ec2-fd151ccb136a",
-                    "type": "ImageService2",
-                    "profile": "level2"
-                  }
-                ]
-              },
-              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p2"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p3",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Cathedral of Saint John at 's-Hertogenbosch"
-        ]
-      },
-      "width": 12048,
-      "height": 17847,
-      "metadata": [
-        {
-          "label": {
-            "en": [
-              "Artist"
-            ]
-          },
-          "value": {
-            "en": [
-              "Pieter Jansz Saenredam"
-            ]
-          }
-        }
-      ],
-      "items": [
-        {
-          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/3",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/3",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://api.nga.gov/iiif/67b3ed27-d652-4ba1-aad5-bc72e8d820d1/full/max/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 12048,
-                "height": 17847,
-                "service": [
-                  {
-                    "id": "https://api.nga.gov/iiif/67b3ed27-d652-4ba1-aad5-bc72e8d820d1",
-                    "type": "ImageService2",
-                    "profile": "level2"
-                  }
-                ]
-              },
-              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p3"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p4",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Holy Spirit"
-        ]
-      },
-      "width": 12062,
-      "height": 8670,
-      "metadata": [
-        {
-          "label": {
-            "en": [
-              "Artist"
-            ]
-          },
-          "value": {
-            "en": [
-              "John Storrs"
-            ]
-          }
-        }
-      ],
-      "items": [
-        {
-          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/4",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/4",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://api.nga.gov/iiif/b76c71ff-7fa2-4789-a288-e29887e24066/full/max/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 12062,
-                "height": 8670,
-                "service": [
-                  {
-                    "id": "https://api.nga.gov/iiif/b76c71ff-7fa2-4789-a288-e29887e24066",
-                    "type": "ImageService2",
-                    "profile": "level2"
-                  }
-                ]
-              },
-              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p4"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p5",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Still Life with Peonies"
-        ]
-      },
-      "width": 16372,
-      "height": 13341,
-      "metadata": [
-        {
-          "label": {
-            "en": [
-              "Artist"
-            ]
-          },
-          "value": {
-            "en": [
-              "Paul Gauguin"
-            ]
-          }
-        }
-      ],
-      "items": [
-        {
-          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/5",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/5",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://api.nga.gov/iiif/9f47ac4b-d7dd-4b0e-a9f5-3154a787e2fd/full/max/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 16372,
-                "height": 13341,
-                "service": [
-                  {
-                    "id": "https://api.nga.gov/iiif/9f47ac4b-d7dd-4b0e-a9f5-3154a787e2fd",
-                    "type": "ImageService2",
-                    "profile": "level2"
-                  }
-                ]
-              },
-              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p5"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p6",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Portrait of a Male Donor"
-        ]
-      },
-      "width": 9963,
-      "height": 19418,
-      "metadata": [
-        {
-          "label": {
-            "en": [
-              "Artist"
-            ]
-          },
-          "value": {
-            "en": [
-              "Petrus Christus"
-            ]
-          }
-        }
-      ],
-      "items": [
-        {
-          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/6",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/6",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://api.nga.gov/iiif/7270e9fe-1183-4441-a661-cbd826c7e8ec/full/max/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 9963,
-                "height": 19418,
-                "service": [
-                  {
-                    "id": "https://api.nga.gov/iiif/7270e9fe-1183-4441-a661-cbd826c7e8ec",
-                    "type": "ImageService2",
-                    "profile": "level2"
-                  }
-                ]
-              },
-              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p6"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p7",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Peasant Girl with a Straw Hat"
-        ]
-      },
-      "width": 13041,
-      "height": 15970,
-      "metadata": [
-        {
-          "label": {
-            "en": [
-              "Artist"
-            ]
-          },
-          "value": {
-            "en": [
-              "Camille Pissarro"
-            ]
-          }
-        }
-      ],
-      "items": [
-        {
-          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/7",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/7",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://api.nga.gov/iiif/973f15d7-f2ab-4002-af7a-19fdd269453c/full/max/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 13041,
-                "height": 15970,
-                "service": [
-                  {
-                    "id": "https://api.nga.gov/iiif/973f15d7-f2ab-4002-af7a-19fdd269453c",
-                    "type": "ImageService2",
-                    "profile": "level2"
-                  }
-                ]
-              },
-              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p7"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p8",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Oysters"
-        ]
-      },
-      "width": 14162,
-      "height": 11766,
-      "metadata": [
-        {
-          "label": {
-            "en": [
-              "Artist"
-            ]
-          },
-          "value": {
-            "en": [
-              "Edouard Manet"
-            ]
-          }
-        }
-      ],
-      "items": [
-        {
-          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/8",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/8",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://api.nga.gov/iiif/8a702906-1a1f-4f0b-85a9-4d7abecef643/full/max/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 14162,
-                "height": 11766,
-                "service": [
-                  {
-                    "id": "https://api.nga.gov/iiif/8a702906-1a1f-4f0b-85a9-4d7abecef643",
-                    "type": "ImageService2",
-                    "profile": "level2"
-                  }
-                ]
-              },
-              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p8"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p9",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Maria"
-        ]
-      },
-      "width": 11043,
-      "height": 14469,
-      "metadata": [
-        {
-          "label": {
-            "en": [
-              "Artist"
-            ]
-          },
-          "value": {
-            "en": [
-              "American 18th Century"
-            ]
-          }
-        }
-      ],
-      "items": [
-        {
-          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/9",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/9",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://api.nga.gov/iiif/9a98fb70-bd52-484b-b14c-053cf84949ae/full/max/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 11043,
-                "height": 14469,
-                "service": [
-                  {
-                    "id": "https://api.nga.gov/iiif/9a98fb70-bd52-484b-b14c-053cf84949ae",
-                    "type": "ImageService2",
-                    "profile": "level2"
-                  }
-                ]
-              },
-              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p9"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p10",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Still Life with a Basket of Peaches and Grapes"
-        ]
-      },
-      "width": 22967,
-      "height": 14948,
-      "metadata": [
-        {
-          "label": {
-            "en": [
-              "Artist"
-            ]
-          },
-          "value": {
-            "en": [
-              "Louise Moillon"
-            ]
-          }
-        }
-      ],
-      "items": [
-        {
-          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/10",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/10",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://api.nga.gov/iiif/e9a83a37-249e-4fe8-9df8-e4b4702734c7/full/max/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 22967,
-                "height": 14948,
-                "service": [
-                  {
-                    "id": "https://api.nga.gov/iiif/e9a83a37-249e-4fe8-9df8-e4b4702734c7",
-                    "type": "ImageService2",
-                    "profile": "level2"
-                  }
-                ]
-              },
-              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p10"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p11",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Ships Riding on the Seine at Rouen"
-        ]
-      },
-      "width": 11078,
-      "height": 9011,
-      "metadata": [
-        {
-          "label": {
-            "en": [
-              "Artist"
-            ]
-          },
-          "value": {
-            "en": [
-              "Claude Monet"
-            ]
-          }
-        }
-      ],
-      "items": [
-        {
-          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/11",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/11",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://api.nga.gov/iiif/73069488-cbc0-412b-a9fd-8094e24e2915/full/max/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 11078,
-                "height": 9011,
-                "service": [
-                  {
-                    "id": "https://api.nga.gov/iiif/73069488-cbc0-412b-a9fd-8094e24e2915",
-                    "type": "ImageService2",
-                    "profile": "level2"
-                  }
-                ]
-              },
-              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p11"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p12",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "The Presentation of the Virgin in the Temple"
-        ]
-      },
-      "width": 8874,
-      "height": 9289,
-      "metadata": [
-        {
-          "label": {
-            "en": [
-              "Artist"
-            ]
-          },
-          "value": {
-            "en": [
-              "Paolo di Giovanni Fei"
-            ]
-          }
-        }
-      ],
-      "items": [
-        {
-          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/12",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/12",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://api.nga.gov/iiif/2714014d-4f30-40d1-861e-76ad75b798ca/full/max/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 8874,
-                "height": 9289,
-                "service": [
-                  {
-                    "id": "https://api.nga.gov/iiif/2714014d-4f30-40d1-861e-76ad75b798ca",
-                    "type": "ImageService2",
-                    "profile": "level2"
-                  }
-                ]
-              },
-              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p12"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p13",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Mao"
-        ]
-      },
-      "width": 13304,
-      "height": 15779,
-      "metadata": [
-        {
-          "label": {
-            "en": [
-              "Artist"
-            ]
-          },
-          "value": {
-            "en": [
-              "Andy Warhol"
-            ]
-          }
-        }
-      ],
-      "items": [
-        {
-          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/13",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/13",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://api.nga.gov/iiif/af22c7ab-4b0a-418b-a040-e740d587a2e0/full/max/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 13304,
-                "height": 15779,
-                "service": [
-                  {
-                    "id": "https://api.nga.gov/iiif/af22c7ab-4b0a-418b-a040-e740d587a2e0",
-                    "type": "ImageService2",
-                    "profile": "level2"
-                  }
-                ]
-              },
-              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p13"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p14",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Head of a Young Boy"
-        ]
-      },
-      "width": 3350,
-      "height": 4226,
-      "metadata": [
-        {
-          "label": {
-            "en": [
-              "Artist"
-            ]
-          },
-          "value": {
-            "en": [
-              "Attributed to Jan de Bray"
-            ]
-          }
-        }
-      ],
-      "items": [
-        {
-          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/14",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/14",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://api.nga.gov/iiif/c6847a6c-8a40-41e3-b639-3df1ce6b222b/full/max/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 3350,
-                "height": 4226,
-                "service": [
-                  {
-                    "id": "https://api.nga.gov/iiif/c6847a6c-8a40-41e3-b639-3df1ce6b222b",
-                    "type": "ImageService2",
-                    "profile": "level2"
-                  }
-                ]
-              },
-              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p14"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p15",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "David E. Finley"
-        ]
-      },
-      "width": 26466,
-      "height": 31988,
-      "metadata": [
-        {
-          "label": {
-            "en": [
-              "Artist"
-            ]
-          },
-          "value": {
-            "en": [
-              "Bernard Hailstone"
-            ]
-          }
-        }
-      ],
-      "items": [
-        {
-          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/15",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/15",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://api.nga.gov/iiif/4d32c57f-a8fb-4785-a34b-fab3cf9e2602/full/max/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 26466,
-                "height": 31988,
-                "service": [
-                  {
-                    "id": "https://api.nga.gov/iiif/4d32c57f-a8fb-4785-a34b-fab3cf9e2602",
-                    "type": "ImageService2",
-                    "profile": "level2"
-                  }
-                ]
-              },
-              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p15"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p16",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "Two Chippewyan Warriors and a Woman"
-        ]
-      },
-      "width": 7662,
+      "width": 7606,
       "height": 5996,
       "metadata": [
         {
@@ -882,43 +140,414 @@
       ],
       "items": [
         {
-          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/16",
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/2",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/16",
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/2",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/1313cad3-c10d-43e9-ab17-d3ba840035b9/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/c2fdd68d-5395-4944-9297-21fc0df22986/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 7662,
+                "width": 7606,
                 "height": 5996,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/1313cad3-c10d-43e9-ab17-d3ba840035b9",
+                    "id": "https://api.nga.gov/iiif/c2fdd68d-5395-4944-9297-21fc0df22986",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
                 ]
               },
-              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p16"
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p2"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p17",
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p3",
       "type": "Canvas",
       "label": {
         "en": [
-          "The Peppermint Bottle"
+          "Rip Van Winkle Awakening from his Long Sleep"
         ]
       },
-      "width": 34561,
-      "height": 27601,
+      "width": 14545,
+      "height": 11960,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Artist"
+            ]
+          },
+          "value": {
+            "en": [
+              "Henry Inman"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/3",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/35afd963-4a51-47c5-8ce7-ce6861420a7f/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 14545,
+                "height": 11960,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/35afd963-4a51-47c5-8ce7-ce6861420a7f",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p4",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Kanton"
+        ]
+      },
+      "width": 6647,
+      "height": 3733,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Artist"
+            ]
+          },
+          "value": {
+            "en": [
+              "Friedel Dzubas"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/4",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/b2afd54d-e812-4914-a010-af96cdeb64eb/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 6647,
+                "height": 3733,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/b2afd54d-e812-4914-a010-af96cdeb64eb",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p5",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Landing"
+        ]
+      },
+      "width": 19320,
+      "height": 14829,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Artist"
+            ]
+          },
+          "value": {
+            "en": [
+              "Raoul Dufy"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/5",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/6a62a167-41f7-47de-bffb-b6caf976010c/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 19320,
+                "height": 14829,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/6a62a167-41f7-47de-bffb-b6caf976010c",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p6",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Mrs. Asa Benjamin"
+        ]
+      },
+      "width": 6618,
+      "height": 7949,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Artist"
+            ]
+          },
+          "value": {
+            "en": [
+              "William Jennys"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/6",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/38b09901-0c91-4d8d-802e-93d297fb406b/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 6618,
+                "height": 7949,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/38b09901-0c91-4d8d-802e-93d297fb406b",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p7",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Drawbridge - Long Branch R. R."
+        ]
+      },
+      "width": 7100,
+      "height": 4672,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Artist"
+            ]
+          },
+          "value": {
+            "en": [
+              "Theodore Robinson"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/7",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/c5a88ee6-50af-49f5-872a-bd410a12df36/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 7100,
+                "height": 4672,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/c5a88ee6-50af-49f5-872a-bd410a12df36",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p8",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "An Old Lady with a Book"
+        ]
+      },
+      "width": 15794,
+      "height": 19007,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Artist"
+            ]
+          },
+          "value": {
+            "en": [
+              "Rembrandt van Rijn and Workshop"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/8",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/d11ecc48-9cf8-482f-bf63-8ec3238816ef/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 15794,
+                "height": 19007,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/d11ecc48-9cf8-482f-bf63-8ec3238816ef",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p9",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Osprey and Weakfish"
+        ]
+      },
+      "width": 3245,
+      "height": 4897,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Artist"
+            ]
+          },
+          "value": {
+            "en": [
+              "John James Audubon"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/9",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/04570b01-f9de-42cb-97ff-d33abe5a9051/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 3245,
+                "height": 4897,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/04570b01-f9de-42cb-97ff-d33abe5a9051",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p10",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "The Gardener Vallier"
+        ]
+      },
+      "width": 11503,
+      "height": 16843,
       "metadata": [
         {
           "label": {
@@ -935,6 +564,377 @@
       ],
       "items": [
         {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/10",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/879bd223-950c-4019-a61d-8715432ab11f/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 11503,
+                "height": 16843,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/879bd223-950c-4019-a61d-8715432ab11f",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p11",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Untitled (Seated Woman with Pitcher)"
+        ]
+      },
+      "width": 17469,
+      "height": 21574,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Artist"
+            ]
+          },
+          "value": {
+            "en": [
+              "Hartwell Yeargans"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/11",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/6029e1fd-c2ab-4a88-97f3-e259f148e0ab/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 17469,
+                "height": 21574,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/6029e1fd-c2ab-4a88-97f3-e259f148e0ab",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p12",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Thomas W. Dyott"
+        ]
+      },
+      "width": 5245,
+      "height": 6252,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Artist"
+            ]
+          },
+          "value": {
+            "en": [
+              "John Neagle"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/12",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/e051c489-8d9b-4709-b913-ee230e25a71d/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 5245,
+                "height": 6252,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/e051c489-8d9b-4709-b913-ee230e25a71d",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p13",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Camanchee Chief's Children and Wigwam"
+        ]
+      },
+      "width": 6430,
+      "height": 5019,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Artist"
+            ]
+          },
+          "value": {
+            "en": [
+              "George Catlin"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/13",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/faff07d6-7c2b-4514-bcbb-f1c13fd88be7/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 6430,
+                "height": 5019,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/faff07d6-7c2b-4514-bcbb-f1c13fd88be7",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p14",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Large Vase with Flowers"
+        ]
+      },
+      "width": 11448,
+      "height": 15218,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Artist"
+            ]
+          },
+          "value": {
+            "en": [
+              "Odilon Redon"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/14",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/2e81c5f6-da7d-4a4d-932c-ad5f7f5ce9bc/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 11448,
+                "height": 15218,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/2e81c5f6-da7d-4a4d-932c-ad5f7f5ce9bc",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p15",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Catlin and Indian Attacking Buffalo"
+        ]
+      },
+      "width": 7576,
+      "height": 5943,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Artist"
+            ]
+          },
+          "value": {
+            "en": [
+              "George Catlin"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/15",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/a58e1cd2-6514-4b4a-87a7-f6aaee5ddc32/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 7576,
+                "height": 5943,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/a58e1cd2-6514-4b4a-87a7-f6aaee5ddc32",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p16",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Flux"
+        ]
+      },
+      "width": 3689,
+      "height": 4425,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Artist"
+            ]
+          },
+          "value": {
+            "en": [
+              "Hans Hofmann"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/16",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/anno/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/042c7076-fd61-47a5-bbd8-972718ff7a97/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 3689,
+                "height": 4425,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/042c7076-fd61-47a5-bbd8-972718ff7a97",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/canvas/p17",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Untitled (Seagram Mural sketch)"
+        ]
+      },
+      "width": 3852,
+      "height": 4648,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Artist"
+            ]
+          },
+          "value": {
+            "en": [
+              "Mark Rothko"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
           "id": "https://bzweig633.github.io/nga-iiif-weekly-gallery/page/17",
           "type": "AnnotationPage",
           "items": [
@@ -943,14 +943,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/a747d251-bb1f-404b-a167-26bd03611006/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/7b4b059c-dcd0-42cd-a471-d22dc9758a4e/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 34561,
-                "height": 27601,
+                "width": 3852,
+                "height": 4648,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/a747d251-bb1f-404b-a167-26bd03611006",
+                    "id": "https://api.nga.gov/iiif/7b4b059c-dcd0-42cd-a471-d22dc9758a4e",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -967,11 +967,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "The Meeting of Saint Anthony and Saint Paul"
+          "Madonna of the Goldfinch"
         ]
       },
-      "width": 16448,
-      "height": 23242,
+      "width": 12896,
+      "height": 16322,
       "metadata": [
         {
           "label": {
@@ -981,7 +981,7 @@
           },
           "value": {
             "en": [
-              "Master of the Osservanza (Sano di Pietro?)"
+              "Giovanni Battista Tiepolo"
             ]
           }
         }
@@ -996,14 +996,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/a2ef8440-9638-4900-bd55-e6061de7524a/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3e77b2e1-a36a-482f-85f8-96eaf89b679a/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 16448,
-                "height": 23242,
+                "width": 12896,
+                "height": 16322,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/a2ef8440-9638-4900-bd55-e6061de7524a",
+                    "id": "https://api.nga.gov/iiif/3e77b2e1-a36a-482f-85f8-96eaf89b679a",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -1020,11 +1020,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "La Bretonnerie in the Department of Indre"
+          "The Baptism of Christ"
         ]
       },
-      "width": 15261,
-      "height": 12566,
+      "width": 5964,
+      "height": 4776,
       "metadata": [
         {
           "label": {
@@ -1034,7 +1034,7 @@
           },
           "value": {
             "en": [
-              "Gustave Courbet"
+              "Alessandro Magnasco"
             ]
           }
         }
@@ -1049,14 +1049,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/2058099c-f0a4-4117-9346-0b2bb3071b20/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/4e4b72ae-9903-4515-b017-e76053cc12d5/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 15261,
-                "height": 12566,
+                "width": 5964,
+                "height": 4776,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/2058099c-f0a4-4117-9346-0b2bb3071b20",
+                    "id": "https://api.nga.gov/iiif/4e4b72ae-9903-4515-b017-e76053cc12d5",
                     "type": "ImageService2",
                     "profile": "level2"
                   }

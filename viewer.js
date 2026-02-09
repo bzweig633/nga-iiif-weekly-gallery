@@ -1,46 +1,51 @@
 (function() {
-    // Load Mirador from CDN
     const script = document.createElement('script');
     script.src = "https://unpkg.com/mirador@latest/dist/mirador.min.js";
     document.head.appendChild(script);
 
     script.onload = () => {
-        Mirador.viewer({
+        const miradorInstance = Mirador.viewer({
             id: 'mirador-viewer',
             windows: [{
+                id: 'window-1', // Explicit ID to help focus
                 manifestId: 'https://bzweig633.github.io/nga-iiif-weekly-gallery/nga_random_collection.json',
-                sideBarOpen: false, // Closed by default
-                defaultSideBarPanel: 'info', // Metadata ready in sidebar
-                thumbnailNavigationPosition: 'far-bottom', // Thumbnails at bottom
+                sideBarOpen: false,
+                thumbnailNavigationPosition: 'far-bottom',
+                view: 'single',
             }],
             window: {
                 allowClose: false,
                 allowMaximize: false,
                 hideWindowTitle: true,
-                sideBarPanel: 'info',
+                defaultSideBarPanel: 'info',
             },
             workspace: {
-                type: 'mosaic', // Best for single-window centering
-                allowNewWindows: false,
                 showZoomControls: true,
+                type: 'mosaic',
+                allowNewWindows: false,
             },
-            workspaceControlPanel: {
-                enabled: false, // Hides the dark left-hand utility bar
-            },
-            // THE FIXES FOR ZOOM & KEYBOARD
+            workspaceControlPanel: { enabled: false },
+            // THE FIXES
             osdConfig: {
-                maxZoomLevel: 8,          // Your requested zoom limit
-                preserveViewport: false,  // FORCE centering on every load
-                visibilityRatio: 1,       // Prevents image from "flying" off screen
-                homeFillsViewer: true,
-            },
-            // Enable Keyboard Arrows for navigation
-            canvasNavigation: {
-                height: 100,
+                maxZoomLevel: 8,
+                preserveViewport: false, // Forces recalculation on every image switch
+                visibilityRatio: 1.0,    // Keeps the image within the container bounds
+                homeFillsViewer: false,  // PREVENTS the "zoomed-in" default; forces "fit"
             },
             thumbnailNavigation: {
-                defaultHeight: 120,
+                defaultHeight: 110,
             }
         });
+
+        // KEYBOARD FOCUS FIX:
+        // Mirador needs the window to be "selected" for arrow keys to work.
+        // This small delay ensures the window is ready before we focus it.
+        setTimeout(() => {
+            const viewerElement = document.getElementById('mirador-viewer');
+            if (viewerElement) {
+                viewerElement.tabIndex = 0; // Make it focusable
+                viewerElement.focus();
+            }
+        }, 2000);
     };
 })();

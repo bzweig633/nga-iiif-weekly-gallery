@@ -13,8 +13,13 @@ localStorage.removeItem('mirador');
     Mirador.viewer({
       id: 'mirador-viewer', // Must match the ID in your HTML
       windows: [{
-        manifestId: 'https://bzweig633.github.io/nga-iiif-weekly-gallery/nga_random_collection.json'
-      }]
+        manifestId: 'https://bzweig633.github.io/nga-iiif-weekly-gallery/nga_random_collection.json',
+        sideBarOpen: false // 1) Hide sidebar by default
+      }],
+      osdConfig: {
+        preserveViewport: false, // 2) Reset zoom/center on every image
+        homeFillsViewer: false   // 2) Ensure the entire image is visible (fit)
+      }
     });
   };
 })();

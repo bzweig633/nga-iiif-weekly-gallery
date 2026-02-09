@@ -19,11 +19,13 @@ localStorage.removeItem('mirador');
       osdConfig: {
         preserveViewport: false, // 2) Reset zoom/center on every image
         homeFillsViewer: false   // 2) Ensure the entire image is visible (fit)
+      },
+      workspaceControlPanel: {
+        enabled: false // Hide the workspace panel on the left by default
       }
     });
   };
 })();
-
 /*
 //const miradorInstance = Mirador.viewer({
   id: 'mirador-viewer',

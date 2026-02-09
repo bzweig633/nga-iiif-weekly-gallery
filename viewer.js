@@ -15,28 +15,37 @@
                 allowClose: false,
                 allowMaximize: false,
                 hideWindowTitle: true,
-                // These help the viewer 'snap' to the new image size faster
                 defaultView: 'single',
-                switchCanvasOnSearch: true,
             },
-            // Reduce the 'tiling' effect by increasing the tile cache and reducing 'blur' transitions
+            // 1. LIMIT THE ZOOM
             osdConfig: {
                 preserveViewport: false,
-                alwaysBlend: false,       // Performance: Stops the 'fading' between tiles
-                wrapHorizontal: false,
-                minZoomImageRatio: 1,     // Forces image to at least fill one dimension
-                loadTilesWithAjax: true,
-                imageLoaderLimit: 15,     // Increases parallel tile loading
+                visibilityRatio: 1.0,
+                minZoomLevel: 0,
+                // Prevents zooming past the actual resolution of the image (no 'pixel-mush')
+                maxZoomLevel: 3, 
+                homeFillsViewer: true,
+            },
+            // 2. ENABLE KEYBOARD NAVIGATION
+            canvasNavigation: {
+                height: 100,
+                width: 100,
+            },
+            // This enables the arrow keys (Left/Right) to swap images
+            thumbnailNavigation: {
+                defaultHeight: 120,
+                displaySettings: true,
             },
             workspace: {
-                type: 'mosaic',           // Mosaic is faster than Elastic
+                type: 'mosaic',
+                // This ensures the viewer listens for keyboard events
+                isWorkspaceControlPanelVisible: false,
             },
-            workspaceControlPanel: { enabled: false },
-            // Disable animations to save CPU/GPU for rendering tiles
-            themes: {
-                default: {
-                    transitions: { create: () => 'none', duration: 0 }
-                }
+            // Global keyboard settings
+            keyboardShortcutConfig: {
+                enabled: true,
+                previousCanvas: 'left',
+                nextCanvas: 'right',
             }
         });
     };

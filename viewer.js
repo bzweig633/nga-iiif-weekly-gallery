@@ -10,21 +10,23 @@
                 manifestId: 'https://bzweig633.github.io/nga-iiif-weekly-gallery/nga_random_collection.json',
                 sideBarOpen: false,
                 thumbnailNavigationPosition: 'far-bottom',
-                defaultView: 'single',
+                view: 'single',
             }],
             window: {
                 allowClose: false,
                 allowMaximize: false,
-                defaultSideBarPanel: 'info',
-                // This tells Mirador to reset the zoom every time the canvas changes
+                hideWindowTitle: true,
+                // Ensures the "view" context is reset per canvas
                 forceContext: true, 
             },
-            // We pass settings directly to the internal OpenSeadragon engine
+            // Direct instructions to the internal OSD engine
             osdConfig: {
-                preserveViewport: false, // This is the "magic" setting for centering
-                visibilityRatio: 1,
+                preserveViewport: false,    // RESET zoom on image change
+                visibilityRatio: 1.0,       // Keep the image fully in view
+                defaultZoomLevel: 0,        // 0 usually represents "Fit to window"
                 minZoomLevel: 0,
-                homeFillsViewer: true
+                homeFillsViewer: true,      // Tells OSD to maximize the art in the box
+                immediateRender: true       // Speeds up the initial "fit" calculation
             },
             workspaceControlPanel: { enabled: false }
         });

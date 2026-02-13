@@ -13,11 +13,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Battersea Reach"
+          "Théodore Duret"
         ]
       },
-      "width": 32607,
-      "height": 21584,
+      "width": 15529,
+      "height": 19717,
       "metadata": [
         {
           "label": {
@@ -27,7 +27,7 @@
           },
           "value": {
             "en": [
-              "James McNeill Whistler"
+              "Edouard Vuillard"
             ]
           }
         }
@@ -42,14 +42,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/ac936d8c-9ae1-491f-8848-421016c51c9b/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/d24df33e-1403-4e96-ad1b-b6f41a9e8c1a/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 32607,
-                "height": 21584,
+                "width": 15529,
+                "height": 19717,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/ac936d8c-9ae1-491f-8848-421016c51c9b",
+                    "id": "https://api.nga.gov/iiif/d24df33e-1403-4e96-ad1b-b6f41a9e8c1a",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -66,11 +66,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Seel"
+          "Suzanne Valadon"
         ]
       },
-      "width": 16683,
-      "height": 18877,
+      "width": 4375,
+      "height": 5768,
       "metadata": [
         {
           "label": {
@@ -80,7 +80,7 @@
           },
           "value": {
             "en": [
-              "Larry Poons"
+              "Auguste Renoir"
             ]
           }
         }
@@ -95,14 +95,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/0087942e-c830-4f71-9fdc-16045e321056/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/38b5d6d9-acd5-4a0b-bd88-0ece50cb989b/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 16683,
-                "height": 18877,
+                "width": 4375,
+                "height": 5768,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/0087942e-c830-4f71-9fdc-16045e321056",
+                    "id": "https://api.nga.gov/iiif/38b5d6d9-acd5-4a0b-bd88-0ece50cb989b",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -119,11 +119,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Tableau No. IV; Lozenge Composition with Red, Gray, Blue, Yellow, and Black"
+          "The Jolly Flatboatmen"
         ]
       },
-      "width": 18834,
-      "height": 18834,
+      "width": 22546,
+      "height": 17805,
       "metadata": [
         {
           "label": {
@@ -133,7 +133,7 @@
           },
           "value": {
             "en": [
-              "Piet Mondrian"
+              "George Caleb Bingham"
             ]
           }
         }
@@ -148,14 +148,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/262b6aad-9869-45af-b33c-d3d41964203a/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/f2c2ef49-269b-4527-98d9-a2a0c09b742e/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 18834,
-                "height": 18834,
+                "width": 22546,
+                "height": 17805,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/262b6aad-9869-45af-b33c-d3d41964203a",
+                    "id": "https://api.nga.gov/iiif/f2c2ef49-269b-4527-98d9-a2a0c09b742e",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -172,11 +172,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Seated Woman"
+          "Still Life"
         ]
       },
-      "width": 14812,
-      "height": 17736,
+      "width": 16805,
+      "height": 11115,
       "metadata": [
         {
           "label": {
@@ -186,7 +186,7 @@
           },
           "value": {
             "en": [
-              "Augustin Théodule Ribot"
+              "Giorgio Morandi"
             ]
           }
         }
@@ -201,14 +201,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/989d8d59-3dad-43c4-ba6e-b25477e3f6b9/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/44aa65e0-a1e1-4bdc-8724-a455cea4ad6f/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 14812,
-                "height": 17736,
+                "width": 16805,
+                "height": 11115,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/989d8d59-3dad-43c4-ba6e-b25477e3f6b9",
+                    "id": "https://api.nga.gov/iiif/44aa65e0-a1e1-4bdc-8724-a455cea4ad6f",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -225,11 +225,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "The Attentive Nurse"
+          "Green Plums"
         ]
       },
-      "width": 15026,
-      "height": 18823,
+      "width": 4452,
+      "height": 3636,
       "metadata": [
         {
           "label": {
@@ -239,7 +239,7 @@
           },
           "value": {
             "en": [
-              "Jean Siméon Chardin"
+              "Joseph Decker"
             ]
           }
         }
@@ -254,14 +254,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/38ce8cb8-3214-44b3-ae67-966cba664008/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/3c2dcfb1-a13c-4137-876a-b5481a4de8cd/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 15026,
-                "height": 18823,
+                "width": 4452,
+                "height": 3636,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/38ce8cb8-3214-44b3-ae67-966cba664008",
+                    "id": "https://api.nga.gov/iiif/3c2dcfb1-a13c-4137-876a-b5481a4de8cd",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -278,11 +278,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Margaret Stuyvesant Rutherfurd White (Mrs. Henry White)"
+          "The Apparition of the Virgin"
         ]
       },
-      "width": 16869,
-      "height": 26461,
+      "width": 3934,
+      "height": 6048,
       "metadata": [
         {
           "label": {
@@ -292,7 +292,7 @@
           },
           "value": {
             "en": [
-              "John Singer Sargent"
+              "Girolamo da Carpi"
             ]
           }
         }
@@ -307,14 +307,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/65f8a676-7e7a-4b1d-9e38-569fe9c8b29e/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/a70547b2-b7c9-42ea-91b0-3b9fb3cc367e/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 16869,
-                "height": 26461,
+                "width": 3934,
+                "height": 6048,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/65f8a676-7e7a-4b1d-9e38-569fe9c8b29e",
+                    "id": "https://api.nga.gov/iiif/a70547b2-b7c9-42ea-91b0-3b9fb3cc367e",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -331,11 +331,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Chief Jumper of the Seminoles"
+          "American Landscape"
         ]
       },
-      "width": 16870,
-      "height": 20373,
+      "width": 30639,
+      "height": 18270,
       "metadata": [
         {
           "label": {
@@ -345,7 +345,7 @@
           },
           "value": {
             "en": [
-              "American 19th Century"
+              "Elizabeth Gilbert Jerome"
             ]
           }
         }
@@ -360,14 +360,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/7e277d11-35a7-4deb-87d4-a075668329e7/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/697ccdd7-55f1-4f90-8a84-b5594d1b8adf/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 16870,
-                "height": 20373,
+                "width": 30639,
+                "height": 18270,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/7e277d11-35a7-4deb-87d4-a075668329e7",
+                    "id": "https://api.nga.gov/iiif/697ccdd7-55f1-4f90-8a84-b5594d1b8adf",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -384,11 +384,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "The Harbor at Lorient"
+          "The Nativity"
         ]
       },
-      "width": 27871,
-      "height": 16521,
+      "width": 4903,
+      "height": 6114,
       "metadata": [
         {
           "label": {
@@ -398,7 +398,7 @@
           },
           "value": {
             "en": [
-              "Berthe Morisot"
+              "Perino del Vaga"
             ]
           }
         }
@@ -413,14 +413,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/bf6c7c73-82e8-4ef7-8ac8-71920c8eb2b9/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/a8c5c756-d96b-4788-a9bf-a6cdad569ff4/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 27871,
-                "height": 16521,
+                "width": 4903,
+                "height": 6114,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/bf6c7c73-82e8-4ef7-8ac8-71920c8eb2b9",
+                    "id": "https://api.nga.gov/iiif/a8c5c756-d96b-4788-a9bf-a6cdad569ff4",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -437,11 +437,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Reunión en la OEA (Meeting at the OAS)"
+          "The Martyrdom of Saint Lawrence"
         ]
       },
-      "width": 40650,
-      "height": 31954,
+      "width": 3720,
+      "height": 4440,
       "metadata": [
         {
           "label": {
@@ -451,7 +451,7 @@
           },
           "value": {
             "en": [
-              "Mariano Rodríguez"
+              "Jean Baptiste de Champaigne"
             ]
           }
         }
@@ -466,14 +466,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/9ae96792-abb1-4de2-8243-024ef3edd4e5/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/a397a12f-ba08-4586-bf9d-9d8c099fbdf9/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 40650,
-                "height": 31954,
+                "width": 3720,
+                "height": 4440,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/9ae96792-abb1-4de2-8243-024ef3edd4e5",
+                    "id": "https://api.nga.gov/iiif/a397a12f-ba08-4586-bf9d-9d8c099fbdf9",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -490,11 +490,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Study for \"The Dancing Lesson\": The Banjo Player"
+          "Mount Auburn Cemetery"
         ]
       },
-      "width": 4371,
-      "height": 5801,
+      "width": 4750,
+      "height": 3661,
       "metadata": [
         {
           "label": {
@@ -504,7 +504,7 @@
           },
           "value": {
             "en": [
-              "Thomas Eakins"
+              "Thomas Chambers"
             ]
           }
         }
@@ -519,14 +519,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/9b65e8fc-64e8-429f-948a-4073d5f5478f/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/c3739ea0-64a5-42bc-b803-2db02a469fad/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 4371,
-                "height": 5801,
+                "width": 4750,
+                "height": 3661,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/9b65e8fc-64e8-429f-948a-4073d5f5478f",
+                    "id": "https://api.nga.gov/iiif/c3739ea0-64a5-42bc-b803-2db02a469fad",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -543,11 +543,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Saint Jerome Penitent [right panel]"
+          "Still Life with Dressed Game, Meat, and Fruit"
         ]
       },
-      "width": 8375,
-      "height": 29532,
+      "width": 10284,
+      "height": 13225,
       "metadata": [
         {
           "label": {
@@ -557,7 +557,7 @@
           },
           "value": {
             "en": [
-              "Jan Gossaert"
+              "Alexandre-François Desportes"
             ]
           }
         }
@@ -572,14 +572,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/1a0bd5c7-54f0-49e9-b570-aaa680278896/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/a5bd131c-a670-4c3c-9cf5-adf559eb4c34/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 8375,
-                "height": 29532,
+                "width": 10284,
+                "height": 13225,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/1a0bd5c7-54f0-49e9-b570-aaa680278896",
+                    "id": "https://api.nga.gov/iiif/a5bd131c-a670-4c3c-9cf5-adf559eb4c34",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -596,11 +596,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Facsimile of a Sioux Robe with Porcupine Quills"
+          "Pont Neuf, Paris"
         ]
       },
-      "width": 6316,
-      "height": 4956,
+      "width": 7691,
+      "height": 6124,
       "metadata": [
         {
           "label": {
@@ -610,7 +610,7 @@
           },
           "value": {
             "en": [
-              "George Catlin"
+              "Auguste Renoir"
             ]
           }
         }
@@ -625,14 +625,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/becac2a4-bd31-4cb8-82d2-7f4b1c1ac05b/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/56303f18-6101-4d5d-9b03-20b58d657afa/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 6316,
-                "height": 4956,
+                "width": 7691,
+                "height": 6124,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/becac2a4-bd31-4cb8-82d2-7f4b1c1ac05b",
+                    "id": "https://api.nga.gov/iiif/56303f18-6101-4d5d-9b03-20b58d657afa",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -649,11 +649,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Portrait of a Lady"
+          "Still Life with Figs and Bread"
         ]
       },
-      "width": 16562,
-      "height": 23032,
+      "width": 3544,
+      "height": 5032,
       "metadata": [
         {
           "label": {
@@ -663,7 +663,7 @@
           },
           "value": {
             "en": [
-              "German 16th Century"
+              "Luis Meléndez"
             ]
           }
         }
@@ -678,14 +678,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/6fe68ba1-6d3c-4b43-a731-60aa6091e70d/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/ce3b93db-19f3-47c2-bbe8-2914619e86ee/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 16562,
-                "height": 23032,
+                "width": 3544,
+                "height": 5032,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/6fe68ba1-6d3c-4b43-a731-60aa6091e70d",
+                    "id": "https://api.nga.gov/iiif/ce3b93db-19f3-47c2-bbe8-2914619e86ee",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -702,11 +702,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "El Vivero"
+          "Circe III (Surface and Volume in Nature)"
         ]
       },
-      "width": 61500,
-      "height": 25500,
+      "width": 10588,
+      "height": 8611,
       "metadata": [
         {
           "label": {
@@ -716,7 +716,7 @@
           },
           "value": {
             "en": [
-              "José Morales"
+              "Joseph Cornell"
             ]
           }
         }
@@ -731,14 +731,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/f4b3b0fd-91b7-4758-bc68-67fb651f7d2b/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/403ccad0-82e6-4afa-9c96-8e734d5b9861/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 61500,
-                "height": 25500,
+                "width": 10588,
+                "height": 8611,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/f4b3b0fd-91b7-4758-bc68-67fb651f7d2b",
+                    "id": "https://api.nga.gov/iiif/403ccad0-82e6-4afa-9c96-8e734d5b9861",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -755,11 +755,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Dutch Ships near the Coast"
+          "The Card Players"
         ]
       },
-      "width": 12660,
-      "height": 8997,
+      "width": 32266,
+      "height": 29579,
       "metadata": [
         {
           "label": {
@@ -769,7 +769,7 @@
           },
           "value": {
             "en": [
-              "Willem van de Velde the Elder"
+              "after Lucas van Leyden"
             ]
           }
         }
@@ -784,14 +784,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/8ec0ceca-dfcb-4771-affe-37be1dc3d99d/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/abdb99e3-09cf-4034-b894-059f544213a1/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 12660,
-                "height": 8997,
+                "width": 32266,
+                "height": 29579,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/8ec0ceca-dfcb-4771-affe-37be1dc3d99d",
+                    "id": "https://api.nga.gov/iiif/abdb99e3-09cf-4034-b894-059f544213a1",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -808,11 +808,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Abstract Heads"
+          "Madonna and Child with Saint Jerome and Saint Bernardino of Siena"
         ]
       },
-      "width": 17621,
-      "height": 25350,
+      "width": 5864,
+      "height": 8918,
       "metadata": [
         {
           "label": {
@@ -822,7 +822,7 @@
           },
           "value": {
             "en": [
-              "Alfred H. Maurer"
+              "Benvenuto di Giovanni"
             ]
           }
         }
@@ -837,14 +837,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/1483fbc3-8b1f-4b86-8d18-8411dfee9e90/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/70681fcc-b40a-4147-9803-c632037b4f74/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 17621,
-                "height": 25350,
+                "width": 5864,
+                "height": 8918,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/1483fbc3-8b1f-4b86-8d18-8411dfee9e90",
+                    "id": "https://api.nga.gov/iiif/70681fcc-b40a-4147-9803-c632037b4f74",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -861,11 +861,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Mrs. John Harrisson and Daughter"
+          "Ralph Wheelock's Farm"
         ]
       },
-      "width": 5086,
-      "height": 6200,
+      "width": 8326,
+      "height": 4278,
       "metadata": [
         {
           "label": {
@@ -875,7 +875,7 @@
           },
           "value": {
             "en": [
-              "Frederick W. Mayhew"
+              "Francis Alexander"
             ]
           }
         }
@@ -890,14 +890,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/1f7284d5-f76f-4c65-a5fe-14f66388d665/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/9f076b05-b094-4e49-9854-a1bd241683df/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 5086,
-                "height": 6200,
+                "width": 8326,
+                "height": 4278,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/1f7284d5-f76f-4c65-a5fe-14f66388d665",
+                    "id": "https://api.nga.gov/iiif/9f076b05-b094-4e49-9854-a1bd241683df",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -914,11 +914,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Allies Day, May 1917"
+          "The Marriage of the Virgin"
         ]
       },
-      "width": 30689,
-      "height": 37478,
+      "width": 28481,
+      "height": 12772,
       "metadata": [
         {
           "label": {
@@ -928,7 +928,7 @@
           },
           "value": {
             "en": [
-              "Childe Hassam"
+              "Luca Signorelli"
             ]
           }
         }
@@ -943,14 +943,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/15f8bb8b-ad0f-49e1-9948-60e87ede6be6/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/596dbe75-d5d5-4b89-a983-3ac25fec0c01/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 30689,
-                "height": 37478,
+                "width": 28481,
+                "height": 12772,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/15f8bb8b-ad0f-49e1-9948-60e87ede6be6",
+                    "id": "https://api.nga.gov/iiif/596dbe75-d5d5-4b89-a983-3ac25fec0c01",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -967,11 +967,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Cemburu Saya (I'm Jealous)"
+          "Child with Blond Hair"
         ]
       },
-      "width": 23239,
-      "height": 32906,
+      "width": 5107,
+      "height": 5915,
       "metadata": [
         {
           "label": {
@@ -981,7 +981,7 @@
           },
           "value": {
             "en": [
-              "I Gusti Ayu Kadek Murniasih (Murni)"
+              "Auguste Renoir"
             ]
           }
         }
@@ -996,14 +996,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/853d2847-622a-493e-9bc1-207bcbf306c5/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/98081c82-5126-40f2-b351-042f6819272e/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 23239,
-                "height": 32906,
+                "width": 5107,
+                "height": 5915,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/853d2847-622a-493e-9bc1-207bcbf306c5",
+                    "id": "https://api.nga.gov/iiif/98081c82-5126-40f2-b351-042f6819272e",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
@@ -1020,11 +1020,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Watermelon and Grapes"
+          "Martyrdom of Saint Margaret"
         ]
       },
-      "width": 8752,
-      "height": 6877,
+      "width": 4785,
+      "height": 6598,
       "metadata": [
         {
           "label": {
@@ -1034,7 +1034,7 @@
           },
           "value": {
             "en": [
-              "John F. Francis"
+              "Giuseppe Cesari, called Cavaliere d'Arpino"
             ]
           }
         }
@@ -1049,14 +1049,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://api.nga.gov/iiif/9523e580-1616-4596-b581-3d543569d279/full/max/0/default.jpg",
+                "id": "https://api.nga.gov/iiif/eb807a2b-ff3f-4113-8617-d2575a2b4f2d/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 8752,
-                "height": 6877,
+                "width": 4785,
+                "height": 6598,
                 "service": [
                   {
-                    "id": "https://api.nga.gov/iiif/9523e580-1616-4596-b581-3d543569d279",
+                    "id": "https://api.nga.gov/iiif/eb807a2b-ff3f-4113-8617-d2575a2b4f2d",
                     "type": "ImageService2",
                     "profile": "level2"
                   }
